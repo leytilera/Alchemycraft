@@ -1,1 +1,7 @@
 itemGroup.Alchemycraft=Alchemycraft
+
+item.alchemy.name=Alchemy Dust
+item.fire.name=Fire Dust
+item.water.name=Water Dust
+item.earth.name=Earth Dust
+item.air.name=Air Dust

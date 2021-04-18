@@ -12,6 +12,6 @@ public class ACTab extends CreativeTabs {
 
     @Override
     public Item getTabIconItem() {
-        return ACItems.element;
+        return ACItems.alchemydust;
     }
 }

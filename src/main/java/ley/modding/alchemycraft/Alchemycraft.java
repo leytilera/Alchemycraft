@@ -9,6 +9,7 @@ import ley.modding.alchemycraft.alchemy.ElementManager;
 import ley.modding.alchemycraft.event.EventHandler;
 import ley.modding.alchemycraft.internal.Registry;
 import ley.modding.alchemycraft.items.ACItems;
+import ley.modding.alchemycraft.recipes.Recipes;
 import ley.modding.alchemycraft.tab.ACTab;
 import ley.modding.tileralib.api.IRegistry;
 import net.minecraft.creativetab.CreativeTabs;
@@ -40,6 +41,7 @@ public class Alchemycraft {
         IRegistry registry = new Registry();
 
         ACItems.register(registry);
+        Recipes.loadRecipes(registry);
 
     }
 
