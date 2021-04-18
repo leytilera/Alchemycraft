@@ -18,8 +18,8 @@ buildscript {
 apply plugin: 'forge'
 
 version = "1.0"
-group= "modgroup"
-archivesBaseName = "modid"
+group= "ley.modding"
+archivesBaseName = "alchemycraft"
 
 minecraft {
     version = "1.7.10-10.13.4.1614-1.7.10"

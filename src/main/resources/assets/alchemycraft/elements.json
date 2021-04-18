@@ -1,0 +1,8203 @@
+{
+  "elements": [
+    {
+      "num": 0,
+      "signature": 124300927,
+      "id": "brick",
+      "name": "brick",
+      "texture": "j0"
+    },
+    {
+      "num": 1,
+      "signature": 134442983,
+      "id": "cart",
+      "name": "cart",
+      "texture": "j1"
+    },
+    {
+      "num": 2,
+      "signature": 161702990,
+      "id": "cigarettes",
+      "name": "cigarettes",
+      "texture": "j2"
+    },
+    {
+      "num": 3,
+      "signature": 193180192,
+      "id": "steamer",
+      "name": "steamer",
+      "texture": "j3"
+    },
+    {
+      "num": 4,
+      "signature": 205987649,
+      "id": "cement",
+      "name": "cement",
+      "texture": "j4"
+    },
+    {
+      "num": 5,
+      "signature": 206538951,
+      "id": "arable",
+      "name": "arable",
+      "texture": "j5"
+    },
+    {
+      "num": 6,
+      "signature": 253560921,
+      "id": "pearl",
+      "name": "pearl",
+      "texture": "j6"
+    },
+    {
+      "num": 7,
+      "signature": 270899794,
+      "id": "fern",
+      "name": "fern",
+      "texture": "j7"
+    },
+    {
+      "num": 8,
+      "signature": 289012888,
+      "id": "wheel",
+      "name": "wheel",
+      "texture": "j8"
+    },
+    {
+      "num": 9,
+      "signature": 309414983,
+      "id": "hut",
+      "name": "hut",
+      "texture": "j9"
+    },
+    {
+      "num": 10,
+      "signature": 334118653,
+      "id": "metal",
+      "name": "metal",
+      "texture": "ja"
+    },
+    {
+      "num": 11,
+      "signature": 346494005,
+      "id": "algae",
+      "name": "algae",
+      "texture": "jb"
+    },
+    {
+      "num": 12,
+      "signature": 390887491,
+      "id": "scorpion",
+      "name": "scorpion",
+      "texture": "jc"
+    },
+    {
+      "num": 13,
+      "signature": 441351578,
+      "id": "team",
+      "name": "team",
+      "texture": "jd"
+    },
+    {
+      "num": 14,
+      "signature": 480956739,
+      "id": "mud",
+      "name": "mud",
+      "texture": "je"
+    },
+    {
+      "num": 15,
+      "signature": 528693026,
+      "id": "life",
+      "name": "life",
+      "texture": "jf"
+    },
+    {
+      "num": 16,
+      "signature": 598054009,
+      "id": "library",
+      "name": "library",
+      "texture": "jg"
+    },
+    {
+      "num": 17,
+      "signature": 598703825,
+      "id": "snake",
+      "name": "snake",
+      "texture": "jh"
+    },
+    {
+      "num": 18,
+      "signature": 714907119,
+      "id": "sex",
+      "name": "sex",
+      "texture": "ji"
+    },
+    {
+      "num": 19,
+      "signature": 874868048,
+      "id": "wooden_ship",
+      "name": "wooden ship",
+      "texture": "jj"
+    },
+    {
+      "num": 20,
+      "signature": 889330958,
+      "id": "sailing_ship",
+      "name": "sailing ship",
+      "texture": "jk"
+    },
+    {
+      "num": 21,
+      "signature": 907298825,
+      "id": "wool",
+      "name": "wool",
+      "texture": "jl"
+    },
+    {
+      "num": 22,
+      "signature": 978541648,
+      "id": "gunpowder",
+      "name": "gunpowder",
+      "texture": "jm"
+    },
+    {
+      "num": 23,
+      "signature": 982176238,
+      "id": "flour",
+      "name": "flour",
+      "texture": "jn"
+    },
+    {
+      "num": 24,
+      "signature": 982367150,
+      "id": "turtle",
+      "name": "turtle",
+      "texture": "jo"
+    },
+    {
+      "num": 25,
+      "signature": 1000839340,
+      "id": "cloth",
+      "name": "cloth",
+      "texture": "jp"
+    },
+    {
+      "num": 26,
+      "signature": 1018323881,
+      "id": "butterfly",
+      "name": "butterfly",
+      "texture": "jq"
+    },
+    {
+      "num": 27,
+      "signature": 1043842739,
+      "id": "air",
+      "name": "air",
+      "texture": "jr"
+    },
+    {
+      "num": 28,
+      "signature": 1060638682,
+      "id": "ent",
+      "name": "ent",
+      "texture": "js"
+    },
+    {
+      "num": 29,
+      "signature": 1146456452,
+      "id": "boiler",
+      "name": "boiler",
+      "texture": "jt"
+    },
+    {
+      "num": 30,
+      "signature": 1178660411,
+      "id": "dragon",
+      "name": "dragon",
+      "texture": "ju"
+    },
+    {
+      "num": 31,
+      "signature": 1181507795,
+      "id": "seed",
+      "name": "seed",
+      "texture": "jv"
+    },
+    {
+      "num": 32,
+      "signature": 1201138134,
+      "id": "coal",
+      "name": "coal",
+      "texture": "jw"
+    },
+    {
+      "num": 33,
+      "signature": 1308312650,
+      "id": "sulfur",
+      "name": "sulfur",
+      "texture": "jx"
+    },
+    {
+      "num": 34,
+      "signature": 1319315401,
+      "id": "clay",
+      "name": "clay",
+      "texture": "jy"
+    },
+    {
+      "num": 35,
+      "signature": 1360351839,
+      "id": "dust",
+      "name": "dust",
+      "texture": "jz"
+    },
+    {
+      "num": 36,
+      "signature": 1363044215,
+      "id": "beer",
+      "name": "beer",
+      "texture": "j10"
+    },
+    {
+      "num": 37,
+      "signature": 1404161529,
+      "id": "limestone",
+      "name": "limestone",
+      "texture": "j11"
+    },
+    {
+      "num": 38,
+      "signature": 1427862612,
+      "id": "lava_golem",
+      "name": "lava golem",
+      "texture": "j12"
+    },
+    {
+      "num": 39,
+      "signature": 1523811463,
+      "id": "storm",
+      "name": "storm",
+      "texture": "j13"
+    },
+    {
+      "num": 40,
+      "signature": 1541086402,
+      "id": "fire",
+      "name": "fire",
+      "texture": "j14"
+    },
+    {
+      "num": 41,
+      "signature": 1552446348,
+      "id": "tree",
+      "name": "tree",
+      "texture": "j15"
+    },
+    {
+      "num": 42,
+      "signature": 1571449482,
+      "id": "sugar",
+      "name": "sugar",
+      "texture": "j16"
+    },
+    {
+      "num": 43,
+      "signature": 1607718024,
+      "id": "phoenix",
+      "name": "phoenix",
+      "texture": "j17"
+    },
+    {
+      "num": 44,
+      "signature": 1736577065,
+      "id": "arms",
+      "name": "arms",
+      "texture": "j18"
+    },
+    {
+      "num": 45,
+      "signature": 1789330867,
+      "id": "yogurt",
+      "name": "yogurt",
+      "texture": "j19"
+    },
+    {
+      "num": 46,
+      "signature": 1793567231,
+      "id": "lime",
+      "name": "lime",
+      "texture": "j1a"
+    },
+    {
+      "num": 47,
+      "signature": 1815471218,
+      "id": "grass",
+      "name": "grass",
+      "texture": "j1b"
+    },
+    {
+      "num": 48,
+      "signature": 1856585948,
+      "id": "hunter",
+      "name": "hunter",
+      "texture": "j1c"
+    },
+    {
+      "num": 49,
+      "signature": 1857012008,
+      "id": "meat",
+      "name": "meat",
+      "texture": "j1d"
+    },
+    {
+      "num": 50,
+      "signature": 1977545079,
+      "id": "vodka",
+      "name": "vodka",
+      "texture": "j1e"
+    },
+    {
+      "num": 51,
+      "signature": 2004979354,
+      "id": "lava",
+      "name": "lava",
+      "texture": "j1f"
+    },
+    {
+      "num": 52,
+      "signature": 2059968434,
+      "id": "metal_golem",
+      "name": "metal golem",
+      "texture": "j1g"
+    },
+    {
+      "num": 53,
+      "signature": 2078064215,
+      "id": "dinosaur",
+      "name": "dinosaur",
+      "texture": "j1h"
+    },
+    {
+      "num": 54,
+      "signature": 2134830389,
+      "id": "man",
+      "name": "man",
+      "texture": "j1i"
+    },
+    {
+      "num": 55,
+      "signature": -2040936899,
+      "id": "wood",
+      "name": "wood",
+      "texture": "j1j"
+    },
+    {
+      "num": 56,
+      "signature": -2010032594,
+      "id": "ghost",
+      "name": "ghost",
+      "texture": "j1k"
+    },
+    {
+      "num": 57,
+      "signature": -1930954590,
+      "id": "blood",
+      "name": "blood",
+      "texture": "j1l"
+    },
+    {
+      "num": 58,
+      "signature": -1921127562,
+      "id": "sailboat",
+      "name": "sailboat",
+      "texture": "j1m"
+    },
+    {
+      "num": 59,
+      "signature": -1849766570,
+      "id": "tool",
+      "name": "tool",
+      "texture": "j1n"
+    },
+    {
+      "num": 60,
+      "signature": -1841846584,
+      "id": "fish",
+      "name": "fish",
+      "texture": "j1o"
+    },
+    {
+      "num": 61,
+      "signature": -1782144166,
+      "id": "golem",
+      "name": "golem",
+      "texture": "j1p"
+    },
+    {
+      "num": 62,
+      "signature": -1754894359,
+      "id": "clothing",
+      "name": "clothing",
+      "texture": "j1q"
+    },
+    {
+      "num": 63,
+      "signature": -1733692422,
+      "id": "warrior",
+      "name": "warrior",
+      "texture": "j1r"
+    },
+    {
+      "num": 64,
+      "signature": -1717129470,
+      "id": "poison",
+      "name": "poison",
+      "texture": "j1s"
+    },
+    {
+      "num": 65,
+      "signature": -1706095173,
+      "id": "reed",
+      "name": "reed",
+      "texture": "j1t"
+    },
+    {
+      "num": 66,
+      "signature": -1688740830,
+      "id": "concrete",
+      "name": "concrete",
+      "texture": "j1u"
+    },
+    {
+      "num": 67,
+      "signature": -1679914090,
+      "id": "boat",
+      "name": "boat",
+      "texture": "j1v"
+    },
+    {
+      "num": 68,
+      "signature": -1660262937,
+      "id": "scarab",
+      "name": "scarab",
+      "texture": "j1w"
+    },
+    {
+      "num": 69,
+      "signature": -1620941670,
+      "id": "milk",
+      "name": "milk",
+      "texture": "j1x"
+    },
+    {
+      "num": 70,
+      "signature": -1508311192,
+      "id": "skyscraper",
+      "name": "skyscraper",
+      "texture": "j1y"
+    },
+    {
+      "num": 71,
+      "signature": -1462506186,
+      "id": "omelette",
+      "name": "omelette",
+      "texture": "j1z"
+    },
+    {
+      "num": 72,
+      "signature": -1337392271,
+      "id": "dough",
+      "name": "dough",
+      "texture": "j20"
+    },
+    {
+      "num": 73,
+      "signature": -1302597398,
+      "id": "pterodactyl",
+      "name": "pterodactyl",
+      "texture": "j21"
+    },
+    {
+      "num": 74,
+      "signature": -1292165857,
+      "id": "saltpeter",
+      "name": "saltpeter",
+      "texture": "j22"
+    },
+    {
+      "num": 75,
+      "signature": -1139223513,
+      "id": "livestock",
+      "name": "livestock",
+      "texture": "j23"
+    },
+    {
+      "num": 76,
+      "signature": -1110709580,
+      "id": "thunderbird",
+      "name": "thunderbird",
+      "texture": "j24"
+    },
+    {
+      "num": 77,
+      "signature": -1084874602,
+      "id": "shells",
+      "name": "shells",
+      "texture": "j25"
+    },
+    {
+      "num": 78,
+      "signature": -1065061273,
+      "id": "moss",
+      "name": "moss",
+      "texture": "j26"
+    },
+    {
+      "num": 79,
+      "signature": -997080549,
+      "id": "brick_house",
+      "name": "brick house",
+      "texture": "j27"
+    },
+    {
+      "num": 80,
+      "signature": -986054633,
+      "id": "alcohol",
+      "name": "alcohol",
+      "texture": "j28"
+    },
+    {
+      "num": 81,
+      "signature": -856368153,
+      "id": "tobacco",
+      "name": "tobacco",
+      "texture": "j29"
+    },
+    {
+      "num": 82,
+      "signature": -771598242,
+      "id": "whale",
+      "name": "whale",
+      "texture": "j2a"
+    },
+    {
+      "num": 83,
+      "signature": -755812327,
+      "id": "energy",
+      "name": "energy",
+      "texture": "j2b"
+    },
+    {
+      "num": 84,
+      "signature": -656317695,
+      "id": "undead",
+      "name": "undead",
+      "texture": "j2c"
+    },
+    {
+      "num": 85,
+      "signature": -655568275,
+      "id": "alcoholic",
+      "name": "alcoholic",
+      "texture": "j2d"
+    },
+    {
+      "num": 86,
+      "signature": -572649923,
+      "id": "wheat",
+      "name": "wheat",
+      "texture": "j2e"
+    },
+    {
+      "num": 87,
+      "signature": -544822287,
+      "id": "ash",
+      "name": "ash",
+      "texture": "j2f"
+    },
+    {
+      "num": 88,
+      "signature": -483512451,
+      "id": "beast",
+      "name": "beast",
+      "texture": "j2g"
+    },
+    {
+      "num": 89,
+      "signature": -423222666,
+      "id": "fat",
+      "name": "fat",
+      "texture": "j2h"
+    },
+    {
+      "num": 90,
+      "signature": -377411609,
+      "id": "plankton",
+      "name": "plankton",
+      "texture": "j2i"
+    },
+    {
+      "num": 91,
+      "signature": -257381207,
+      "id": "steam",
+      "name": "steam",
+      "texture": "j2j"
+    },
+    {
+      "num": 92,
+      "signature": -162118366,
+      "id": "sand",
+      "name": "sand",
+      "texture": "j2k"
+    },
+    {
+      "num": 93,
+      "signature": -122990195,
+      "id": "locomotive",
+      "name": "locomotive",
+      "texture": "j2l"
+    },
+    {
+      "num": 94,
+      "signature": -105000219,
+      "id": "swamp",
+      "name": "swamp",
+      "texture": "j2m"
+    },
+    {
+      "num": 95,
+      "signature": -62170635,
+      "id": "assassin",
+      "name": "assassin",
+      "texture": "j2n"
+    },
+    {
+      "num": 96,
+      "signature": 96806280,
+      "id": "lizard",
+      "name": "lizard",
+      "texture": "j2o"
+    },
+    {
+      "num": 97,
+      "signature": 484984156,
+      "id": "water",
+      "name": "water",
+      "texture": "j2p"
+    },
+    {
+      "num": 98,
+      "signature": 675366406,
+      "id": "pig",
+      "name": "pig",
+      "texture": "j2q"
+    },
+    {
+      "num": 99,
+      "signature": 865211371,
+      "id": "beetle",
+      "name": "beetle",
+      "texture": "j2r"
+    },
+    {
+      "num": 100,
+      "signature": 884215258,
+      "id": "barbecue",
+      "name": "barbecue",
+      "texture": "j2s"
+    },
+    {
+      "num": 101,
+      "signature": 891172849,
+      "id": "bacteria",
+      "name": "bacteria",
+      "texture": "j2t"
+    },
+    {
+      "num": 102,
+      "signature": 1157098399,
+      "id": "corpse",
+      "name": "corpse",
+      "texture": "j2u"
+    },
+    {
+      "num": 103,
+      "signature": 1336401804,
+      "id": "zombie",
+      "name": "zombie",
+      "texture": "j2v"
+    },
+    {
+      "num": 104,
+      "signature": 1370440309,
+      "id": "bread",
+      "name": "bread",
+      "texture": "j2w"
+    },
+    {
+      "num": 105,
+      "signature": 1497051254,
+      "id": "stone",
+      "name": "stone",
+      "texture": "j2x"
+    },
+    {
+      "num": 106,
+      "signature": 1587603945,
+      "id": "ceramics",
+      "name": "ceramics",
+      "texture": "j2y"
+    },
+    {
+      "num": 107,
+      "signature": 1682046878,
+      "id": "earth",
+      "name": "earth",
+      "texture": "j2z"
+    },
+    {
+      "num": 108,
+      "signature": 1723218833,
+      "id": "mushroom",
+      "name": "mushroom",
+      "texture": "j30"
+    },
+    {
+      "num": 109,
+      "signature": 1784391671,
+      "id": "glass",
+      "name": "glass",
+      "texture": "j31"
+    },
+    {
+      "num": 110,
+      "signature": 1801071216,
+      "id": "steam_engine",
+      "name": "steam-engine",
+      "texture": "j32"
+    },
+    {
+      "num": 111,
+      "signature": 2010209331,
+      "id": "soap",
+      "name": "soap",
+      "texture": "j33"
+    },
+    {
+      "num": 112,
+      "signature": 2029690015,
+      "id": "poisoned_weapons",
+      "name": "poisoned weapons",
+      "texture": "j34"
+    },
+    {
+      "num": 113,
+      "signature": -2137290797,
+      "id": "fire_elemental",
+      "name": "fire elemental",
+      "texture": "j35"
+    },
+    {
+      "num": 114,
+      "signature": -1909743997,
+      "id": "vampire",
+      "name": "vampire",
+      "texture": "j36"
+    },
+    {
+      "num": 115,
+      "signature": -1781950697,
+      "id": "bicycle",
+      "name": "bicycle",
+      "texture": "j37"
+    },
+    {
+      "num": 116,
+      "signature": -1597469025,
+      "id": "manure",
+      "name": "manure",
+      "texture": "j38"
+    },
+    {
+      "num": 117,
+      "signature": -1480516037,
+      "id": "egg",
+      "name": "egg",
+      "texture": "j39"
+    },
+    {
+      "num": 118,
+      "signature": -1070344080,
+      "id": "feather",
+      "name": "feather",
+      "texture": "j3a"
+    },
+    {
+      "num": 119,
+      "signature": -1038533754,
+      "id": "worm",
+      "name": "worm",
+      "texture": "j3b"
+    },
+    {
+      "num": 120,
+      "signature": -969202581,
+      "id": "hero",
+      "name": "hero",
+      "texture": "j3c"
+    },
+    {
+      "num": 121,
+      "signature": -904945386,
+      "id": "electricity",
+      "name": "electricity",
+      "texture": "j3d"
+    },
+    {
+      "num": 122,
+      "signature": -735663872,
+      "id": "bird",
+      "name": "bird",
+      "texture": "j3e"
+    },
+    {
+      "num": 123,
+      "signature": -669029057,
+      "id": "firearms",
+      "name": "firearms",
+      "texture": "j3f"
+    },
+    {
+      "num": 124,
+      "signature": -529183310,
+      "id": "paper",
+      "name": "paper",
+      "texture": "j3g"
+    },
+    {
+      "num": 125,
+      "signature": -227845137,
+      "id": "werewolf",
+      "name": "werewolf",
+      "texture": "j3h"
+    },
+    {
+      "num": 126,
+      "signature": -12046818,
+      "id": "book",
+      "name": "book",
+      "texture": "j3i"
+    },
+    {
+      "num": 127,
+      "signature": 680100863,
+      "id": "salamander",
+      "name": "salamander",
+      "texture": "j3j"
+    },
+    {
+      "num": 128,
+      "signature": -190215940,
+      "id": "ashtray",
+      "name": "ashtray",
+      "texture": "j3k"
+    },
+    {
+      "num": 129,
+      "signature": 521519461,
+      "id": "vulture",
+      "name": "vulture",
+      "texture": "j3l"
+    },
+    {
+      "num": 130,
+      "signature": 677076820,
+      "id": "sailor",
+      "name": "sailor",
+      "texture": "j3m"
+    },
+    {
+      "num": 131,
+      "signature": 1751139988,
+      "id": "tequila",
+      "name": "tequila",
+      "texture": "j3n"
+    },
+    {
+      "num": 132,
+      "signature": 1462894090,
+      "id": "caviar",
+      "name": "caviar",
+      "texture": "j3o"
+    },
+    {
+      "num": 133,
+      "signature": -1509834543,
+      "id": "panda",
+      "name": "panda",
+      "texture": "j3p"
+    },
+    {
+      "num": 134,
+      "signature": -1997575869,
+      "id": "iodine",
+      "name": "iodine",
+      "texture": "j3q"
+    },
+    {
+      "num": 135,
+      "signature": 1114214040,
+      "id": "peat",
+      "name": "peat",
+      "texture": "j3r"
+    },
+    {
+      "num": 136,
+      "signature": 1458508889,
+      "id": "city",
+      "name": "city",
+      "texture": "j3s"
+    },
+    {
+      "num": 137,
+      "signature": -208735390,
+      "id": "sniper",
+      "name": "sniper",
+      "texture": "j3t"
+    },
+    {
+      "num": 138,
+      "signature": 1494667032,
+      "id": "flu",
+      "name": "flu",
+      "texture": "j3u"
+    },
+    {
+      "num": 139,
+      "signature": 1174789098,
+      "id": "typhoon",
+      "name": "typhoon",
+      "texture": "j3v"
+    },
+    {
+      "num": 140,
+      "signature": 2037938584,
+      "id": "scientist",
+      "name": "scientist",
+      "texture": "j3w"
+    },
+    {
+      "num": 141,
+      "signature": -454529387,
+      "id": "combustion_engine",
+      "name": "combustion engine",
+      "texture": "j3x"
+    },
+    {
+      "num": 142,
+      "signature": -1249109182,
+      "id": "pressure",
+      "name": "pressure",
+      "texture": "j3y"
+    },
+    {
+      "num": 143,
+      "signature": -407994551,
+      "id": "fossil",
+      "name": "fossil",
+      "texture": "j3z"
+    },
+    {
+      "num": 144,
+      "signature": 898411947,
+      "id": "kerogen",
+      "name": "kerogen",
+      "texture": "j40"
+    },
+    {
+      "num": 145,
+      "signature": -181619466,
+      "id": "bitumen",
+      "name": "bitumen",
+      "texture": "j41"
+    },
+    {
+      "num": 146,
+      "signature": 1421269675,
+      "id": "petroleum",
+      "name": "petroleum",
+      "texture": "j42"
+    },
+    {
+      "num": 147,
+      "signature": 859003058,
+      "id": "gasoline",
+      "name": "gasoline",
+      "texture": "j43"
+    },
+    {
+      "num": 148,
+      "signature": 469767611,
+      "id": "motorcycle",
+      "name": "motorcycle",
+      "texture": "j44"
+    },
+    {
+      "num": 149,
+      "signature": 1073065795,
+      "id": "light_bulb",
+      "name": "light bulb",
+      "texture": "j45"
+    },
+    {
+      "num": 150,
+      "signature": 316475431,
+      "id": "car",
+      "name": "car",
+      "texture": "j46"
+    },
+    {
+      "num": 151,
+      "signature": -1309665421,
+      "id": "vw_beetle",
+      "name": "VW Beetle",
+      "texture": "j47"
+    },
+    {
+      "num": 152,
+      "signature": 706675751,
+      "id": "uncut_diamond",
+      "name": "uncut diamond",
+      "texture": "j48"
+    },
+    {
+      "num": 153,
+      "signature": -726165922,
+      "id": "diamond",
+      "name": "diamond",
+      "texture": "j49"
+    },
+    {
+      "num": 154,
+      "signature": 1180599618,
+      "id": "soured_milk",
+      "name": "soured milk",
+      "texture": "j4a"
+    },
+    {
+      "num": 155,
+      "signature": -474444260,
+      "id": "quark_cheese",
+      "name": "quark (cheese)",
+      "texture": "j4b"
+    },
+    {
+      "num": 156,
+      "signature": 377340358,
+      "id": "whey",
+      "name": "whey",
+      "texture": "j4c"
+    },
+    {
+      "num": 157,
+      "signature": -424900499,
+      "id": "cheese",
+      "name": "cheese",
+      "texture": "j4d"
+    },
+    {
+      "num": 158,
+      "signature": -495628822,
+      "id": "frog",
+      "name": "frog",
+      "texture": "j4e"
+    },
+    {
+      "num": 159,
+      "signature": -1638329533,
+      "id": "mite",
+      "name": "mite",
+      "texture": "j4f"
+    },
+    {
+      "num": 160,
+      "signature": -658537671,
+      "id": "plesiosauria",
+      "name": "plesiosauria",
+      "texture": "j4g"
+    },
+    {
+      "num": 161,
+      "signature": 129129064,
+      "id": "spinning_wheel",
+      "name": "spinning wheel",
+      "texture": "j4h"
+    },
+    {
+      "num": 162,
+      "signature": -109042000,
+      "id": "snail",
+      "name": "snail",
+      "texture": "j4i"
+    },
+    {
+      "num": 163,
+      "signature": 584454214,
+      "id": "mold",
+      "name": "mold",
+      "texture": "j4j"
+    },
+    {
+      "num": 164,
+      "signature": -1222658413,
+      "id": "ectoplasm",
+      "name": "ectoplasm",
+      "texture": "j4k"
+    },
+    {
+      "num": 165,
+      "signature": -1244557391,
+      "id": "grove",
+      "name": "grove",
+      "texture": "j4l"
+    },
+    {
+      "num": 166,
+      "signature": -702173799,
+      "id": "forest",
+      "name": "forest",
+      "texture": "j4m"
+    },
+    {
+      "num": 167,
+      "signature": -2111143406,
+      "id": "bear",
+      "name": "bear",
+      "texture": "j4n"
+    },
+    {
+      "num": 168,
+      "signature": 280376717,
+      "id": "electric_eel",
+      "name": "electric eel",
+      "texture": "j4o"
+    },
+    {
+      "num": 169,
+      "signature": 711309978,
+      "id": "electric_ray",
+      "name": "electric ray",
+      "texture": "j4p"
+    },
+    {
+      "num": 170,
+      "signature": 186321285,
+      "id": "sushi",
+      "name": "sushi",
+      "texture": "j4q"
+    },
+    {
+      "num": 171,
+      "signature": 95650187,
+      "id": "dam",
+      "name": "dam",
+      "texture": "j4r"
+    },
+    {
+      "num": 172,
+      "signature": -1670497305,
+      "id": "beaver",
+      "name": "beaver",
+      "texture": "j4s"
+    },
+    {
+      "num": 173,
+      "signature": -385481266,
+      "id": "chicken",
+      "name": "chicken",
+      "texture": "j4t"
+    },
+    {
+      "num": 174,
+      "signature": 1300619823,
+      "id": "frankenstein",
+      "name": "Frankenstein",
+      "texture": "j4u"
+    },
+    {
+      "num": 175,
+      "signature": 198688861,
+      "id": "hen_coop",
+      "name": "hen coop",
+      "texture": "j4v"
+    },
+    {
+      "num": 176,
+      "signature": -529995229,
+      "id": "weevil",
+      "name": "weevil",
+      "texture": "j4w"
+    },
+    {
+      "num": 177,
+      "signature": -174434584,
+      "id": "x_1up",
+      "name": "1UP",
+      "texture": "j4x"
+    },
+    {
+      "num": 178,
+      "signature": -2031377184,
+      "id": "beach",
+      "name": "beach",
+      "texture": "j4y"
+    },
+    {
+      "num": 179,
+      "signature": 1970235354,
+      "id": "grave",
+      "name": "grave",
+      "texture": "j4z"
+    },
+    {
+      "num": 180,
+      "signature": -1504523787,
+      "id": "cemetery",
+      "name": "cemetery",
+      "texture": "j50"
+    },
+    {
+      "num": 181,
+      "signature": -308823835,
+      "id": "lamp",
+      "name": "lamp",
+      "texture": "j51"
+    },
+    {
+      "num": 182,
+      "signature": -509235877,
+      "id": "light",
+      "name": "light",
+      "texture": "j52"
+    },
+    {
+      "num": 183,
+      "signature": 338100856,
+      "id": "christmas_tree",
+      "name": "Christmas tree",
+      "texture": "j53"
+    },
+    {
+      "num": 184,
+      "signature": 799674484,
+      "id": "twilight_saga",
+      "name": "Twilight Saga",
+      "texture": "j54"
+    },
+    {
+      "num": 185,
+      "signature": 1884767176,
+      "id": "petri_dish",
+      "name": "Petri dish",
+      "texture": "j55"
+    },
+    {
+      "num": 186,
+      "signature": -565037054,
+      "id": "geyser",
+      "name": "geyser",
+      "texture": "j56"
+    },
+    {
+      "num": 187,
+      "signature": 1051584966,
+      "id": "rust",
+      "name": "rust",
+      "texture": "j57"
+    },
+    {
+      "num": 188,
+      "signature": -1205754326,
+      "id": "bat",
+      "name": "bat",
+      "texture": "j58"
+    },
+    {
+      "num": 189,
+      "signature": -1325243117,
+      "id": "pillow",
+      "name": "pillow",
+      "texture": "j59"
+    },
+    {
+      "num": 190,
+      "signature": 2031778483,
+      "id": "sick",
+      "name": "sick",
+      "texture": "j5a"
+    },
+    {
+      "num": 191,
+      "signature": 1888140552,
+      "id": "hospital",
+      "name": "hospital",
+      "texture": "j5b"
+    },
+    {
+      "num": 192,
+      "signature": -2070531245,
+      "id": "sandwich",
+      "name": "sandwich",
+      "texture": "j5c"
+    },
+    {
+      "num": 193,
+      "signature": -994143230,
+      "id": "explosion",
+      "name": "explosion",
+      "texture": "j5d"
+    },
+    {
+      "num": 194,
+      "signature": -311914260,
+      "id": "coffin",
+      "name": "coffin",
+      "texture": "j5e"
+    },
+    {
+      "num": 195,
+      "signature": -1082726500,
+      "id": "fisherman",
+      "name": "fisherman",
+      "texture": "j5f"
+    },
+    {
+      "num": 196,
+      "signature": 1831660876,
+      "id": "firefly",
+      "name": "firefly",
+      "texture": "j5g"
+    },
+    {
+      "num": 197,
+      "signature": 1169793139,
+      "id": "hydrogen",
+      "name": "hydrogen",
+      "texture": "j5h"
+    },
+    {
+      "num": 198,
+      "signature": -132821282,
+      "id": "oxygen",
+      "name": "oxygen",
+      "texture": "j5i"
+    },
+    {
+      "num": 199,
+      "signature": -1767080171,
+      "id": "lichen",
+      "name": "lichen",
+      "texture": "j5j"
+    },
+    {
+      "num": 200,
+      "signature": 1619622805,
+      "id": "kama_sutra",
+      "name": "Kama Sutra",
+      "texture": "j5k"
+    },
+    {
+      "num": 201,
+      "signature": 514846038,
+      "id": "smoke",
+      "name": "smoke",
+      "texture": "j5l"
+    },
+    {
+      "num": 202,
+      "signature": -447065522,
+      "id": "oxyhydrogen",
+      "name": "oxyhydrogen",
+      "texture": "j5m"
+    },
+    {
+      "num": 203,
+      "signature": 1092595765,
+      "id": "idea",
+      "name": "idea",
+      "texture": "j5n"
+    },
+    {
+      "num": 204,
+      "signature": -222893652,
+      "id": "farmer",
+      "name": "farmer",
+      "texture": "j5o"
+    },
+    {
+      "num": 205,
+      "signature": -460194023,
+      "id": "penicillin",
+      "name": "penicillin",
+      "texture": "j5p"
+    },
+    {
+      "num": 206,
+      "signature": 581169373,
+      "id": "motorboat",
+      "name": "motorboat",
+      "texture": "j5q"
+    },
+    {
+      "num": 207,
+      "signature": 1826786956,
+      "id": "thunderstorm",
+      "name": "thunderstorm",
+      "texture": "j5r"
+    },
+    {
+      "num": 208,
+      "signature": 1911005598,
+      "id": "volcano",
+      "name": "volcano",
+      "texture": "j5s"
+    },
+    {
+      "num": 209,
+      "signature": -954306540,
+      "id": "knife",
+      "name": "knife",
+      "texture": "j5t"
+    },
+    {
+      "num": 210,
+      "signature": -575784525,
+      "id": "stake",
+      "name": "stake",
+      "texture": "j5u"
+    },
+    {
+      "num": 211,
+      "signature": -1292023629,
+      "id": "molotov_cocktail",
+      "name": "Molotov cocktail",
+      "texture": "j5v"
+    },
+    {
+      "num": 212,
+      "signature": -1485893390,
+      "id": "pinocchio",
+      "name": "Pinocchio",
+      "texture": "j5w"
+    },
+    {
+      "num": 213,
+      "signature": -1840142824,
+      "id": "leech",
+      "name": "leech",
+      "texture": "j5x"
+    },
+    {
+      "num": 214,
+      "signature": 1970768324,
+      "id": "fondue",
+      "name": "fondue",
+      "texture": "j5y"
+    },
+    {
+      "num": 215,
+      "signature": -368993388,
+      "id": "chariot",
+      "name": "chariot",
+      "texture": "j5z"
+    },
+    {
+      "num": 216,
+      "signature": 525646599,
+      "id": "caramel",
+      "name": "caramel",
+      "texture": "j60"
+    },
+    {
+      "num": 217,
+      "signature": -1158474495,
+      "id": "yarn",
+      "name": "yarn",
+      "texture": "j61"
+    },
+    {
+      "num": 218,
+      "signature": 705154992,
+      "id": "sweater",
+      "name": "sweater",
+      "texture": "j62"
+    },
+    {
+      "num": 219,
+      "signature": -1018808056,
+      "id": "museum",
+      "name": "museum",
+      "texture": "j63"
+    },
+    {
+      "num": 220,
+      "signature": -190112185,
+      "id": "lighthouse",
+      "name": "lighthouse",
+      "texture": "j64"
+    },
+    {
+      "num": 221,
+      "signature": 1724537516,
+      "id": "swine_flu",
+      "name": "swine flu",
+      "texture": "j65"
+    },
+    {
+      "num": 222,
+      "signature": -2142098413,
+      "id": "hourglass",
+      "name": "hourglass",
+      "texture": "j66"
+    },
+    {
+      "num": 223,
+      "signature": 1010974717,
+      "id": "batman",
+      "name": "Batman",
+      "texture": "j67"
+    },
+    {
+      "num": 224,
+      "signature": 1020395837,
+      "id": "bacon",
+      "name": "bacon",
+      "texture": "j68"
+    },
+    {
+      "num": 225,
+      "signature": -342256429,
+      "id": "soldier",
+      "name": "soldier",
+      "texture": "j69"
+    },
+    {
+      "num": 226,
+      "signature": 519554026,
+      "id": "lava_lamp",
+      "name": "lava lamp",
+      "texture": "j6a"
+    },
+    {
+      "num": 227,
+      "signature": -169089437,
+      "id": "toast",
+      "name": "toast",
+      "texture": "j6b"
+    },
+    {
+      "num": 228,
+      "signature": -521377716,
+      "id": "totoro",
+      "name": "Totoro",
+      "texture": "j6c"
+    },
+    {
+      "num": 229,
+      "signature": 279263881,
+      "id": "wind",
+      "name": "wind",
+      "texture": "j6d"
+    },
+    {
+      "num": 230,
+      "signature": -554684140,
+      "id": "mario",
+      "name": "Mario",
+      "texture": "j6e"
+    },
+    {
+      "num": 231,
+      "signature": -1205459490,
+      "id": "genie",
+      "name": "genie",
+      "texture": "j6f"
+    },
+    {
+      "num": 232,
+      "signature": -1298455134,
+      "id": "firefighter",
+      "name": "firefighter",
+      "texture": "j6g"
+    },
+    {
+      "num": 233,
+      "signature": -77333435,
+      "id": "carbon_dioxide",
+      "name": "carbon dioxide",
+      "texture": "j6h"
+    },
+    {
+      "num": 234,
+      "signature": -403817447,
+      "id": "soda_water",
+      "name": "soda water",
+      "texture": "j6i"
+    },
+    {
+      "num": 235,
+      "signature": 703514820,
+      "id": "desert",
+      "name": "desert",
+      "texture": "j6j"
+    },
+    {
+      "num": 236,
+      "signature": -1012186485,
+      "id": "cactus",
+      "name": "cactus",
+      "texture": "j6k"
+    },
+    {
+      "num": 237,
+      "signature": 1766396062,
+      "id": "cochineal",
+      "name": "cochineal",
+      "texture": "j6l"
+    },
+    {
+      "num": 238,
+      "signature": -1724553869,
+      "id": "carmine",
+      "name": "carmine",
+      "texture": "j6m"
+    },
+    {
+      "num": 239,
+      "signature": 695632929,
+      "id": "coca_cola",
+      "name": "Coca-Cola",
+      "texture": "j6n"
+    },
+    {
+      "num": 240,
+      "signature": -1392496773,
+      "id": "mcdonald_s",
+      "name": "McDonald\\\u0027s",
+      "texture": "j6o"
+    },
+    {
+      "num": 241,
+      "signature": -1268510938,
+      "id": "obesity",
+      "name": "obesity",
+      "texture": "j6p"
+    },
+    {
+      "num": 242,
+      "signature": 2101244317,
+      "id": "diet",
+      "name": "diet",
+      "texture": "j6q"
+    },
+    {
+      "num": 243,
+      "signature": -574645131,
+      "id": "pizza",
+      "name": "pizza",
+      "texture": "j6r"
+    },
+    {
+      "num": 244,
+      "signature": 1543974781,
+      "id": "yoshi",
+      "name": "Yoshi",
+      "texture": "j6s"
+    },
+    {
+      "num": 245,
+      "signature": -1671331813,
+      "id": "zoo",
+      "name": "zoo",
+      "texture": "j6t"
+    },
+    {
+      "num": 246,
+      "signature": 245089452,
+      "id": "avian_flu",
+      "name": "avian flu",
+      "texture": "j6u"
+    },
+    {
+      "num": 247,
+      "signature": -1599536784,
+      "id": "scotch_whisky",
+      "name": "scotch whisky",
+      "texture": "j6v"
+    },
+    {
+      "num": 248,
+      "signature": 975398393,
+      "id": "sand_storm",
+      "name": "sand storm",
+      "texture": "j6w"
+    },
+    {
+      "num": 249,
+      "signature": -365762924,
+      "id": "ozone",
+      "name": "ozone",
+      "texture": "j6x"
+    },
+    {
+      "num": 250,
+      "signature": 185924214,
+      "id": "lightning_rod",
+      "name": "lightning rod",
+      "texture": "j6y"
+    },
+    {
+      "num": 251,
+      "signature": -1292096834,
+      "id": "grape",
+      "name": "grape",
+      "texture": "j6z"
+    },
+    {
+      "num": 252,
+      "signature": -1694383354,
+      "id": "cloud",
+      "name": "cloud",
+      "texture": "j70"
+    },
+    {
+      "num": 253,
+      "signature": 2123054900,
+      "id": "sky",
+      "name": "sky",
+      "texture": "j71"
+    },
+    {
+      "num": 254,
+      "signature": -1625900481,
+      "id": "sun",
+      "name": "Sun",
+      "texture": "j72"
+    },
+    {
+      "num": 255,
+      "signature": -1595791278,
+      "id": "silicon",
+      "name": "silicon",
+      "texture": "j73"
+    },
+    {
+      "num": 256,
+      "signature": -1596760157,
+      "id": "wine",
+      "name": "wine",
+      "texture": "j74"
+    },
+    {
+      "num": 257,
+      "signature": 175648383,
+      "id": "champagne",
+      "name": "champagne",
+      "texture": "j75"
+    },
+    {
+      "num": 258,
+      "signature": 920171077,
+      "id": "flower",
+      "name": "flower",
+      "texture": "j76"
+    },
+    {
+      "num": 259,
+      "signature": 1048113690,
+      "id": "fruit",
+      "name": "fruit",
+      "texture": "j77"
+    },
+    {
+      "num": 260,
+      "signature": -475104081,
+      "id": "berry",
+      "name": "berry",
+      "texture": "j78"
+    },
+    {
+      "num": 261,
+      "signature": -86605574,
+      "id": "bar",
+      "name": "bar",
+      "texture": "j79"
+    },
+    {
+      "num": 262,
+      "signature": -1933537013,
+      "id": "scissors",
+      "name": "scissors",
+      "texture": "j7a"
+    },
+    {
+      "num": 263,
+      "signature": -1142894337,
+      "id": "lightsaber",
+      "name": "lightsaber",
+      "texture": "j7b"
+    },
+    {
+      "num": 264,
+      "signature": 1346161633,
+      "id": "airplane",
+      "name": "airplane",
+      "texture": "j7c"
+    },
+    {
+      "num": 265,
+      "signature": -567315023,
+      "id": "time",
+      "name": "time",
+      "texture": "j7d"
+    },
+    {
+      "num": 266,
+      "signature": -1295000404,
+      "id": "prisoner",
+      "name": "prisoner",
+      "texture": "j7e"
+    },
+    {
+      "num": 267,
+      "signature": 1602755094,
+      "id": "vinegar",
+      "name": "vinegar",
+      "texture": "j7f"
+    },
+    {
+      "num": 268,
+      "signature": -1843483650,
+      "id": "quetzalcoatl",
+      "name": "Quetzalcoatl",
+      "texture": "j7g"
+    },
+    {
+      "num": 269,
+      "signature": 581207006,
+      "id": "star",
+      "name": "star",
+      "texture": "j7h"
+    },
+    {
+      "num": 270,
+      "signature": 443461014,
+      "id": "lawn_mower",
+      "name": "lawn mower",
+      "texture": "j7i"
+    },
+    {
+      "num": 271,
+      "signature": -956704088,
+      "id": "tractor",
+      "name": "tractor",
+      "texture": "j7j"
+    },
+    {
+      "num": 272,
+      "signature": -1718010671,
+      "id": "fugu",
+      "name": "fugu",
+      "texture": "j7k"
+    },
+    {
+      "num": 273,
+      "signature": 1990262039,
+      "id": "sunflower",
+      "name": "sunflower",
+      "texture": "j7l"
+    },
+    {
+      "num": 274,
+      "signature": -1788285629,
+      "id": "mouse",
+      "name": "mouse",
+      "texture": "j7m"
+    },
+    {
+      "num": 275,
+      "signature": -532150489,
+      "id": "cat",
+      "name": "cat",
+      "texture": "j7n"
+    },
+    {
+      "num": 276,
+      "signature": -125201132,
+      "id": "sith",
+      "name": "sith",
+      "texture": "j7o"
+    },
+    {
+      "num": 277,
+      "signature": -481176266,
+      "id": "jedi",
+      "name": "jedi",
+      "texture": "j7p"
+    },
+    {
+      "num": 278,
+      "signature": 1934803715,
+      "id": "star_wars",
+      "name": "Star Wars",
+      "texture": "j7q"
+    },
+    {
+      "num": 279,
+      "signature": 544686402,
+      "id": "santa_claus",
+      "name": "Santa Claus",
+      "texture": "j7r"
+    },
+    {
+      "num": 280,
+      "signature": 354418307,
+      "id": "old_man",
+      "name": "old man",
+      "texture": "j7s"
+    },
+    {
+      "num": 281,
+      "signature": 161301901,
+      "id": "aluminium",
+      "name": "aluminium",
+      "texture": "j7t"
+    },
+    {
+      "num": 282,
+      "signature": 1287571523,
+      "id": "mirror",
+      "name": "mirror",
+      "texture": "j7u"
+    },
+    {
+      "num": 283,
+      "signature": 1212097111,
+      "id": "moon",
+      "name": "Moon",
+      "texture": "j7v"
+    },
+    {
+      "num": 284,
+      "signature": -1102323887,
+      "id": "mummy",
+      "name": "mummy",
+      "texture": "j7w"
+    },
+    {
+      "num": 285,
+      "signature": -318946002,
+      "id": "fabergee_egg",
+      "name": "Fabergé egg",
+      "texture": "j7x"
+    },
+    {
+      "num": 286,
+      "signature": -1755036075,
+      "id": "perfume",
+      "name": "perfume",
+      "texture": "j7y"
+    },
+    {
+      "num": 287,
+      "signature": 46964232,
+      "id": "silver",
+      "name": "silver",
+      "texture": "j7z"
+    },
+    {
+      "num": 288,
+      "signature": -1548485549,
+      "id": "ice",
+      "name": "ice",
+      "texture": "j80"
+    },
+    {
+      "num": 289,
+      "signature": -71840989,
+      "id": "juice",
+      "name": "juice",
+      "texture": "j81"
+    },
+    {
+      "num": 290,
+      "signature": 25181481,
+      "id": "ghostbusters",
+      "name": "Ghostbusters",
+      "texture": "j82"
+    },
+    {
+      "num": 291,
+      "signature": -368922949,
+      "id": "mentos",
+      "name": "Mentos",
+      "texture": "j83"
+    },
+    {
+      "num": 292,
+      "signature": 1175076960,
+      "id": "robin_hood",
+      "name": "Robin Hood",
+      "texture": "j84"
+    },
+    {
+      "num": 293,
+      "signature": 1294231938,
+      "id": "bow",
+      "name": "bow",
+      "texture": "j85"
+    },
+    {
+      "num": 294,
+      "signature": 1974854043,
+      "id": "the_beatles",
+      "name": "The Beatles",
+      "texture": "j86"
+    },
+    {
+      "num": 295,
+      "signature": 1092093968,
+      "id": "sex_and_the_city",
+      "name": "Sex and the City",
+      "texture": "j87"
+    },
+    {
+      "num": 296,
+      "signature": 1991177144,
+      "id": "country",
+      "name": "country",
+      "texture": "j88"
+    },
+    {
+      "num": 297,
+      "signature": 1538053298,
+      "id": "continent",
+      "name": "continent",
+      "texture": "j89"
+    },
+    {
+      "num": 298,
+      "signature": -874712941,
+      "id": "planet",
+      "name": "planet",
+      "texture": "j8a"
+    },
+    {
+      "num": 299,
+      "signature": 1845368294,
+      "id": "cancer",
+      "name": "cancer",
+      "texture": "j8b"
+    },
+    {
+      "num": 300,
+      "signature": 765470010,
+      "id": "lance_armstrong",
+      "name": "Lance Armstrong",
+      "texture": "j8c"
+    },
+    {
+      "num": 301,
+      "signature": -1481514560,
+      "id": "scotland",
+      "name": "Scotland",
+      "texture": "j8d"
+    },
+    {
+      "num": 302,
+      "signature": 939058918,
+      "id": "russia",
+      "name": "Russia",
+      "texture": "j8e"
+    },
+    {
+      "num": 303,
+      "signature": -592241108,
+      "id": "iceland",
+      "name": "Iceland",
+      "texture": "j8f"
+    },
+    {
+      "num": 304,
+      "signature": -1538423905,
+      "id": "france",
+      "name": "France",
+      "texture": "j8g"
+    },
+    {
+      "num": 305,
+      "signature": 628376207,
+      "id": "mexico",
+      "name": "Mexico",
+      "texture": "j8h"
+    },
+    {
+      "num": 306,
+      "signature": 623824077,
+      "id": "usa",
+      "name": "USA",
+      "texture": "j8i"
+    },
+    {
+      "num": 307,
+      "signature": 932141644,
+      "id": "japan",
+      "name": "Japan",
+      "texture": "j8j"
+    },
+    {
+      "num": 308,
+      "signature": 189006555,
+      "id": "germany",
+      "name": "Germany",
+      "texture": "j8k"
+    },
+    {
+      "num": 309,
+      "signature": 839672245,
+      "id": "united_kingdom",
+      "name": "United Kingdom",
+      "texture": "j8l"
+    },
+    {
+      "num": 310,
+      "signature": 1238151879,
+      "id": "china",
+      "name": "China",
+      "texture": "j8m"
+    },
+    {
+      "num": 311,
+      "signature": 997566589,
+      "id": "saudi_arabia",
+      "name": "Saudi Arabia",
+      "texture": "j8n"
+    },
+    {
+      "num": 312,
+      "signature": -33850085,
+      "id": "italy",
+      "name": "Italy",
+      "texture": "j8o"
+    },
+    {
+      "num": 313,
+      "signature": 1322242522,
+      "id": "switzerland",
+      "name": "Switzerland",
+      "texture": "j8p"
+    },
+    {
+      "num": 314,
+      "signature": -631911700,
+      "id": "india",
+      "name": "India",
+      "texture": "j8q"
+    },
+    {
+      "num": 315,
+      "signature": 2061359429,
+      "id": "egypt",
+      "name": "Egypt",
+      "texture": "j8r"
+    },
+    {
+      "num": 316,
+      "signature": -432001918,
+      "id": "venice",
+      "name": "Venice",
+      "texture": "j8s"
+    },
+    {
+      "num": 317,
+      "signature": -1761123350,
+      "id": "kangaroo",
+      "name": "kangaroo",
+      "texture": "j8t"
+    },
+    {
+      "num": 318,
+      "signature": -473932952,
+      "id": "australia",
+      "name": "Australia",
+      "texture": "j8u"
+    },
+    {
+      "num": 319,
+      "signature": -1899245553,
+      "id": "transylvania",
+      "name": "Transylvania",
+      "texture": "j8v"
+    },
+    {
+      "num": 320,
+      "signature": 881614605,
+      "id": "romania",
+      "name": "Romania",
+      "texture": "j8w"
+    },
+    {
+      "num": 321,
+      "signature": 391430037,
+      "id": "salo",
+      "name": "salo",
+      "texture": "j8x"
+    },
+    {
+      "num": 322,
+      "signature": 801149135,
+      "id": "ukraine",
+      "name": "Ukraine",
+      "texture": "j8y"
+    },
+    {
+      "num": 323,
+      "signature": -738542822,
+      "id": "sauna",
+      "name": "sauna",
+      "texture": "j8z"
+    },
+    {
+      "num": 324,
+      "signature": -653970484,
+      "id": "finland",
+      "name": "Finland",
+      "texture": "j90"
+    },
+    {
+      "num": 325,
+      "signature": 1305619586,
+      "id": "kilt",
+      "name": "kilt",
+      "texture": "j91"
+    },
+    {
+      "num": 326,
+      "signature": -1267711946,
+      "id": "clock",
+      "name": "clock",
+      "texture": "j92"
+    },
+    {
+      "num": 327,
+      "signature": -1138643639,
+      "id": "swiss_army_knife",
+      "name": "swiss army knife",
+      "texture": "j93"
+    },
+    {
+      "num": 328,
+      "signature": 603995705,
+      "id": "wolf",
+      "name": "wolf",
+      "texture": "j94"
+    },
+    {
+      "num": 329,
+      "signature": -171081766,
+      "id": "dog",
+      "name": "dog",
+      "texture": "j95"
+    },
+    {
+      "num": 330,
+      "signature": -1342143190,
+      "id": "statue",
+      "name": "statue",
+      "texture": "j96"
+    },
+    {
+      "num": 331,
+      "signature": -474638608,
+      "id": "belarus",
+      "name": "Belarus",
+      "texture": "j97"
+    },
+    {
+      "num": 332,
+      "signature": 2013937596,
+      "id": "elephant",
+      "name": "elephant",
+      "texture": "j98"
+    },
+    {
+      "num": 333,
+      "signature": 716683454,
+      "id": "fried_chicken",
+      "name": "fried chicken",
+      "texture": "j99"
+    },
+    {
+      "num": 334,
+      "signature": -1950464763,
+      "id": "statue_of_liberty",
+      "name": "Statue of Liberty",
+      "texture": "j9a"
+    },
+    {
+      "num": 335,
+      "signature": -372628340,
+      "id": "albert_einstein",
+      "name": "Albert Einstein",
+      "texture": "j9b"
+    },
+    {
+      "num": 336,
+      "signature": 1790960605,
+      "id": "ambulance",
+      "name": "ambulance",
+      "texture": "j9c"
+    },
+    {
+      "num": 337,
+      "signature": 1780695223,
+      "id": "catdog",
+      "name": "CatDog",
+      "texture": "j9d"
+    },
+    {
+      "num": 338,
+      "signature": -370125458,
+      "id": "rainbow",
+      "name": "rainbow",
+      "texture": "j9e"
+    },
+    {
+      "num": 339,
+      "signature": 6688215,
+      "id": "doctor",
+      "name": "doctor",
+      "texture": "j9f"
+    },
+    {
+      "num": 340,
+      "signature": -420965196,
+      "id": "vicodin",
+      "name": "vicodin",
+      "texture": "j9g"
+    },
+    {
+      "num": 341,
+      "signature": -776645551,
+      "id": "house_m_d",
+      "name": "House M.D.",
+      "texture": "j9h"
+    },
+    {
+      "num": 342,
+      "signature": 1151134057,
+      "id": "transistor",
+      "name": "transistor",
+      "texture": "j9i"
+    },
+    {
+      "num": 343,
+      "signature": -752213422,
+      "id": "microchip",
+      "name": "microchip",
+      "texture": "j9j"
+    },
+    {
+      "num": 344,
+      "signature": -519638125,
+      "id": "yoda",
+      "name": "Yoda",
+      "texture": "j9k"
+    },
+    {
+      "num": 345,
+      "signature": 66634777,
+      "id": "alien",
+      "name": "alien",
+      "texture": "j9l"
+    },
+    {
+      "num": 346,
+      "signature": -238375703,
+      "id": "ufo",
+      "name": "UFO",
+      "texture": "j9m"
+    },
+    {
+      "num": 347,
+      "signature": -1273290039,
+      "id": "bee",
+      "name": "bee",
+      "texture": "j9n"
+    },
+    {
+      "num": 348,
+      "signature": -2100201948,
+      "id": "honey",
+      "name": "honey",
+      "texture": "j9o"
+    },
+    {
+      "num": 349,
+      "signature": -1502608250,
+      "id": "sound",
+      "name": "sound",
+      "texture": "j9p"
+    },
+    {
+      "num": 350,
+      "signature": 335729776,
+      "id": "music",
+      "name": "music",
+      "texture": "j9q"
+    },
+    {
+      "num": 351,
+      "signature": 1751286661,
+      "id": "penguin",
+      "name": "penguin",
+      "texture": "j9r"
+    },
+    {
+      "num": 352,
+      "signature": -375722082,
+      "id": "ruby",
+      "name": "ruby",
+      "texture": "j9s"
+    },
+    {
+      "num": 353,
+      "signature": 2024643564,
+      "id": "dilemma",
+      "name": "dilemma",
+      "texture": "j9t"
+    },
+    {
+      "num": 354,
+      "signature": 856067689,
+      "id": "philosophy",
+      "name": "philosophy",
+      "texture": "j9u"
+    },
+    {
+      "num": 355,
+      "signature": -574870085,
+      "id": "philosopher_s_stone",
+      "name": "philosopher\\\u0027s stone",
+      "texture": "j9v"
+    },
+    {
+      "num": 356,
+      "signature": -385425522,
+      "id": "gold",
+      "name": "gold",
+      "texture": "j9w"
+    },
+    {
+      "num": 357,
+      "signature": -448893972,
+      "id": "coin",
+      "name": "coin",
+      "texture": "j9x"
+    },
+    {
+      "num": 358,
+      "signature": 276547795,
+      "id": "money",
+      "name": "money",
+      "texture": "j9y"
+    },
+    {
+      "num": 359,
+      "signature": 1011406027,
+      "id": "robot",
+      "name": "robot",
+      "texture": "j9z"
+    },
+    {
+      "num": 360,
+      "signature": -1200502408,
+      "id": "camel",
+      "name": "camel",
+      "texture": "ja0"
+    },
+    {
+      "num": 361,
+      "signature": 2095049959,
+      "id": "lobster",
+      "name": "lobster",
+      "texture": "ja1"
+    },
+    {
+      "num": 362,
+      "signature": 193760636,
+      "id": "dr_zoidberg",
+      "name": "Dr. Zoidberg",
+      "texture": "ja2"
+    },
+    {
+      "num": 363,
+      "signature": -2050223638,
+      "id": "piggy_bank",
+      "name": "piggy bank",
+      "texture": "ja3"
+    },
+    {
+      "num": 364,
+      "signature": -257768044,
+      "id": "silk",
+      "name": "silk",
+      "texture": "ja4"
+    },
+    {
+      "num": 365,
+      "signature": -834804121,
+      "id": "r2_d2",
+      "name": "R2-D2",
+      "texture": "ja5"
+    },
+    {
+      "num": 366,
+      "signature": -302564341,
+      "id": "sea",
+      "name": "sea",
+      "texture": "ja6"
+    },
+    {
+      "num": 367,
+      "signature": -798227138,
+      "id": "salt",
+      "name": "salt",
+      "texture": "ja7"
+    },
+    {
+      "num": 368,
+      "signature": 409258194,
+      "id": "island",
+      "name": "island",
+      "texture": "ja8"
+    },
+    {
+      "num": 369,
+      "signature": -358167384,
+      "id": "cocoa",
+      "name": "cocoa",
+      "texture": "ja9"
+    },
+    {
+      "num": 370,
+      "signature": -651400743,
+      "id": "chocolate",
+      "name": "chocolate",
+      "texture": "jaa"
+    },
+    {
+      "num": 371,
+      "signature": 913516367,
+      "id": "hot_chocolate",
+      "name": "hot chocolate",
+      "texture": "jab"
+    },
+    {
+      "num": 372,
+      "signature": -1315436239,
+      "id": "e_book",
+      "name": "e-book",
+      "texture": "jac"
+    },
+    {
+      "num": 373,
+      "signature": 341160083,
+      "id": "beetroot",
+      "name": "beetroot",
+      "texture": "jad"
+    },
+    {
+      "num": 374,
+      "signature": 254603659,
+      "id": "borscht",
+      "name": "borscht",
+      "texture": "jae"
+    },
+    {
+      "num": 375,
+      "signature": 1881254649,
+      "id": "crop_circles",
+      "name": "crop circles",
+      "texture": "jaf"
+    },
+    {
+      "num": 376,
+      "signature": 642180737,
+      "id": "woman",
+      "name": "woman",
+      "texture": "jag"
+    },
+    {
+      "num": 377,
+      "signature": -253310233,
+      "id": "mermaid",
+      "name": "mermaid",
+      "texture": "jah"
+    },
+    {
+      "num": 378,
+      "signature": -700193587,
+      "id": "baby",
+      "name": "baby",
+      "texture": "jai"
+    },
+    {
+      "num": 379,
+      "signature": -330578051,
+      "id": "transformers",
+      "name": "Transformers",
+      "texture": "jaj"
+    },
+    {
+      "num": 380,
+      "signature": 956338445,
+      "id": "c_3po",
+      "name": "C-3PO",
+      "texture": "jak"
+    },
+    {
+      "num": 381,
+      "signature": -1659494639,
+      "id": "aquarium",
+      "name": "aquarium",
+      "texture": "jal"
+    },
+    {
+      "num": 382,
+      "signature": -1139040974,
+      "id": "rain",
+      "name": "rain",
+      "texture": "jam"
+    },
+    {
+      "num": 383,
+      "signature": -100147594,
+      "id": "pie",
+      "name": "pie",
+      "texture": "jan"
+    },
+    {
+      "num": 384,
+      "signature": 137095980,
+      "id": "venus",
+      "name": "Venus",
+      "texture": "jao"
+    },
+    {
+      "num": 385,
+      "signature": -774597320,
+      "id": "copper",
+      "name": "copper",
+      "texture": "jap"
+    },
+    {
+      "num": 386,
+      "signature": 1638542028,
+      "id": "thread",
+      "name": "thread",
+      "texture": "jaq"
+    },
+    {
+      "num": 387,
+      "signature": 1812404941,
+      "id": "phone",
+      "name": "phone",
+      "texture": "jar"
+    },
+    {
+      "num": 388,
+      "signature": 454711456,
+      "id": "iphone",
+      "name": "iPhone",
+      "texture": "jas"
+    },
+    {
+      "num": 389,
+      "signature": 445931367,
+      "id": "wire",
+      "name": "wire",
+      "texture": "jat"
+    }
+  ],
+  "combinations": {
+    "1517697325": [
+      {
+        "chance": 1.0,
+        "results": [
+          1360351839
+        ]
+      }
+    ],
+    "88777134": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1273290039
+        ]
+      }
+    ],
+    "195035889": [
+      {
+        "chance": 1.0,
+        "results": [
+          1607718024
+        ]
+      }
+    ],
+    "2020893203": [
+      {
+        "chance": 1.0,
+        "results": [
+          -544822287
+        ]
+      }
+    ],
+    "1808233108": [
+      {
+        "chance": 1.0,
+        "results": [
+          1790960605
+        ]
+      }
+    ],
+    "1909162212": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1933537013
+        ]
+      }
+    ],
+    "771787330": [
+      {
+        "chance": 1.0,
+        "results": [
+          -655568275
+        ]
+      }
+    ],
+    "-1201433890": [
+      {
+        "chance": 1.0,
+        "results": [
+          -424900499
+        ]
+      }
+    ],
+    "609498314": [
+      {
+        "chance": 1.0,
+        "results": [
+          -208735390
+        ]
+      }
+    ],
+    "1188011284": [
+      {
+        "chance": 1.0,
+        "results": [
+          714907119,
+          714907119,
+          714907119
+        ]
+      }
+    ],
+    "1082965037": [
+      {
+        "chance": 1.0,
+        "results": [
+          2031778483
+        ]
+      }
+    ],
+    "1825887176": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1849766570,
+          2134830389
+        ]
+      }
+    ],
+    "1321671669": [
+      {
+        "chance": 1.0,
+        "results": [
+          2024643564
+        ]
+      }
+    ],
+    "1384114391": [
+      {
+        "chance": 1.0,
+        "results": [
+          454711456
+        ]
+      }
+    ],
+    "-832057589": [
+      {
+        "chance": 1.0,
+        "results": [
+          25181481
+        ]
+      }
+    ],
+    "122908494": [
+      {
+        "chance": 1.0,
+        "results": [
+          -544822287,
+          -544822287,
+          1201138134
+        ]
+      }
+    ],
+    "-861674220": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1038533754,
+          1308312650
+        ]
+      }
+    ],
+    "360200971": [
+      {
+        "chance": 1.0,
+        "results": [
+          124300927
+        ]
+      }
+    ],
+    "1649915183": [
+      {
+        "chance": 1.0,
+        "results": [
+          1790960605
+        ]
+      }
+    ],
+    "-2065351093": [
+      {
+        "chance": 1.0,
+        "results": [
+          982176238
+        ]
+      }
+    ],
+    "-1581452272": [
+      {
+        "chance": 1.0,
+        "results": [
+          642180737
+        ]
+      }
+    ],
+    "-847303190": [
+      {
+        "chance": 1.0,
+        "results": [
+          -2050223638
+        ]
+      }
+    ],
+    "130314666": [
+      {
+        "chance": 1.0,
+        "results": [
+          -62170635
+        ]
+      }
+    ],
+    "1647634563": [
+      {
+        "chance": 1.0,
+        "results": [
+          -370125458
+        ]
+      }
+    ],
+    "2135978803": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1102323887
+        ]
+      }
+    ],
+    "-266061850": [
+      {
+        "chance": 1.0,
+        "results": [
+          -986054633
+        ]
+      }
+    ],
+    "1952736716": [
+      {
+        "chance": 1.0,
+        "results": [
+          -407994551
+        ]
+      }
+    ],
+    "1599904818": [
+      {
+        "chance": 0.75,
+        "results": [
+          642180737,
+          2134830389
+        ]
+      },
+      {
+        "chance": 0.25,
+        "results": [
+          2031778483,
+          2031778483
+        ]
+      }
+    ],
+    "1705438923": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1205459490
+        ]
+      }
+    ],
+    "-1613685967": [
+      {
+        "chance": 1.0,
+        "results": [
+          -567315023
+        ]
+      }
+    ],
+    "562581577": [
+      {
+        "chance": 1.0,
+        "results": [
+          1294231938
+        ]
+      }
+    ],
+    "2102336272": [
+      {
+        "chance": 1.0,
+        "results": [
+          -109042000
+        ]
+      }
+    ],
+    "-125473477": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1899245553
+        ]
+      }
+    ],
+    "686403303": [
+      {
+        "chance": 1.0,
+        "results": [
+          1178660411,
+          -544822287
+        ]
+      }
+    ],
+    "-1149883940": [
+      {
+        "chance": 1.0,
+        "results": [
+          -370125458
+        ]
+      }
+    ],
+    "-1477734455": [
+      {
+        "chance": 1.0,
+        "results": [
+          -132821282,
+          1552446348
+        ]
+      }
+    ],
+    "267098055": [
+      {
+        "chance": 1.0,
+        "results": [
+          1319315401
+        ]
+      }
+    ],
+    "-1291315537": [
+      {
+        "chance": 1.0,
+        "results": [
+          1151134057
+        ]
+      }
+    ],
+    "-954306540": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1933537013
+        ]
+      }
+    ],
+    "-1424920627": [
+      {
+        "chance": 1.0,
+        "results": [
+          -33850085
+        ]
+      }
+    ],
+    "19175644": [
+      {
+        "chance": 1.0,
+        "results": [
+          -519638125
+        ]
+      }
+    ],
+    "-1774019596": [
+      {
+        "chance": 1.0,
+        "results": [
+          932141644
+        ]
+      }
+    ],
+    "-1493631867": [
+      {
+        "chance": 1.0,
+        "results": [
+          -375722082
+        ]
+      }
+    ],
+    "-1084818869": [
+      {
+        "chance": 1.0,
+        "results": [
+          -519638125
+        ]
+      }
+    ],
+    "-1504132072": [
+      {
+        "chance": 1.0,
+        "results": [
+          865211371
+        ]
+      }
+    ],
+    "1636096534": [
+      {
+        "chance": 1.0,
+        "results": [
+          -483512451
+        ]
+      }
+    ],
+    "-146966678": [
+      {
+        "chance": 1.0,
+        "results": [
+          1934803715
+        ]
+      }
+    ],
+    "1492360247": [
+      {
+        "chance": 1.0,
+        "results": [
+          -407994551
+        ]
+      }
+    ],
+    "-1651800662": [
+      {
+        "chance": 1.0,
+        "results": [
+          2134830389
+        ]
+      }
+    ],
+    "1146629088": [
+      {
+        "chance": 1.0,
+        "results": [
+          -2137290797
+        ]
+      }
+    ],
+    "-41606098": [
+      {
+        "chance": 1.0,
+        "results": [
+          1881254649
+        ]
+      }
+    ],
+    "1241993477": [
+      {
+        "chance": 1.0,
+        "results": [
+          -432001918
+        ]
+      }
+    ],
+    "-942893059": [
+      {
+        "chance": 1.0,
+        "results": [
+          1346161633
+        ]
+      }
+    ],
+    "-93065056": [
+      {
+        "chance": 1.0,
+        "results": [
+          -834804121
+        ]
+      }
+    ],
+    "964421009": [
+      {
+        "chance": 1.0,
+        "results": [
+          2013937596
+        ]
+      }
+    ],
+    "1327110088": [
+      {
+        "chance": 1.0,
+        "results": [
+          -834804121
+        ]
+      }
+    ],
+    "1278331303": [
+      {
+        "chance": 1.0,
+        "results": [
+          1114214040
+        ]
+      }
+    ],
+    "-342745165": [
+      {
+        "chance": 1.0,
+        "results": [
+          1370440309
+        ]
+      }
+    ],
+    "-114666101": [
+      {
+        "chance": 1.0,
+        "results": [
+          -567315023
+        ]
+      }
+    ],
+    "-999572772": [
+      {
+        "chance": 1.0,
+        "results": [
+          1911005598,
+          2004979354,
+          -544822287
+        ]
+      }
+    ],
+    "-783305181": [
+      {
+        "chance": 1.0,
+        "results": [
+          1845368294
+        ]
+      }
+    ],
+    "2045668234": [
+      {
+        "chance": 1.0,
+        "results": [
+          -385481266
+        ]
+      }
+    ],
+    "-127139521": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1659494639
+        ]
+      }
+    ],
+    "124793340": [
+      {
+        "chance": 1.0,
+        "results": [
+          -71840989
+        ]
+      }
+    ],
+    "-41211612": [
+      {
+        "chance": 1.0,
+        "results": [
+          443461014
+        ]
+      }
+    ],
+    "-1508311192": [
+      {
+        "chance": 1.0,
+        "results": [
+          1458508889
+        ]
+      }
+    ],
+    "516863276": [
+      {
+        "chance": 1.0,
+        "results": [
+          628376207
+        ]
+      }
+    ],
+    "2130455058": [
+      {
+        "chance": 1.0,
+        "results": [
+          1602755094
+        ]
+      }
+    ],
+    "-1742227623": [
+      {
+        "chance": 1.0,
+        "results": [
+          1212097111
+        ]
+      }
+    ],
+    "22766231": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1761123350
+        ]
+      }
+    ],
+    "88811102": [
+      {
+        "chance": 1.0,
+        "results": [
+          276547795
+        ]
+      }
+    ],
+    "1372022811": [
+      {
+        "chance": 1.0,
+        "results": [
+          -544822287,
+          2004979354
+        ]
+      }
+    ],
+    "1281409899": [
+      {
+        "chance": 1.0,
+        "results": [
+          982176238
+        ]
+      }
+    ],
+    "-1533860942": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1200502408
+        ]
+      }
+    ],
+    "81941346": [
+      {
+        "chance": 1.0,
+        "results": [
+          2078064215,
+          -1930954590
+        ]
+      }
+    ],
+    "-1047876445": [
+      {
+        "chance": 1.0,
+        "results": [
+          66634777
+        ]
+      }
+    ],
+    "1186465620": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1480516037
+        ]
+      }
+    ],
+    "1267681165": [
+      {
+        "chance": 1.0,
+        "results": [
+          -190112185
+        ]
+      }
+    ],
+    "1138160924": [
+      {
+        "chance": 1.0,
+        "results": [
+          161301901
+        ]
+      }
+    ],
+    "194054602": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1718010671
+        ]
+      }
+    ],
+    "537371285": [
+      {
+        "chance": 1.0,
+        "results": [
+          1178660411
+        ]
+      }
+    ],
+    "572008723": [
+      {
+        "chance": 1.0,
+        "results": [
+          997566589
+        ]
+      }
+    ],
+    "744623180": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1315436239
+        ]
+      }
+    ],
+    "-802344875": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1139223513,
+          -1597469025,
+          -1620941670
+        ]
+      }
+    ],
+    "1991177144": [
+      {
+        "chance": 1.0,
+        "results": [
+          1538053298
+        ]
+      }
+    ],
+    "63070290": [
+      {
+        "chance": 1.0,
+        "results": [
+          1801071216
+        ]
+      }
+    ],
+    "-1345154498": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1102323887
+        ]
+      }
+    ],
+    "1026510537": [
+      {
+        "chance": 1.0,
+        "results": [
+          1602755094,
+          484984156
+        ]
+      }
+    ],
+    "-1676632683": [
+      {
+        "chance": 1.0,
+        "results": [
+          409258194
+        ]
+      }
+    ],
+    "48245940": [
+      {
+        "chance": 1.0,
+        "results": [
+          334118653
+        ]
+      }
+    ],
+    "-644197942": [
+      {
+        "chance": 1.0,
+        "results": [
+          1151134057
+        ]
+      }
+    ],
+    "585600545": [
+      {
+        "chance": 1.0,
+        "results": [
+          -407994551
+        ]
+      }
+    ],
+    "1361055979": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1782144166
+        ]
+      }
+    ],
+    "-134974619": [
+      {
+        "chance": 1.0,
+        "results": [
+          939058918
+        ]
+      }
+    ],
+    "-916816197": [
+      {
+        "chance": 1.0,
+        "results": [
+          2134830389
+        ]
+      }
+    ],
+    "-242742445": [
+      {
+        "chance": 1.0,
+        "results": [
+          -375722082
+        ]
+      }
+    ],
+    "-1058650005": [
+      {
+        "chance": 1.0,
+        "results": [
+          95650187
+        ]
+      }
+    ],
+    "-550710939": [
+      {
+        "chance": 1.0,
+        "results": [
+          -365762924
+        ]
+      }
+    ],
+    "-2147436823": [
+      {
+        "chance": 1.0,
+        "results": [
+          -181619466
+        ]
+      }
+    ],
+    "-1946883752": [
+      {
+        "chance": 1.0,
+        "results": [
+          -71840989
+        ]
+      }
+    ],
+    "465963609": [
+      {
+        "chance": 1.0,
+        "results": [
+          341160083
+        ]
+      }
+    ],
+    "-1822777996": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1660262937
+        ]
+      }
+    ],
+    "-476272991": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1843483650
+        ]
+      }
+    ],
+    "960079490": [
+      {
+        "chance": 1.0,
+        "results": [
+          270899794
+        ]
+      }
+    ],
+    "1636319378": [
+      {
+        "chance": 1.0,
+        "results": [
+          -994143230,
+          514846038
+        ]
+      }
+    ],
+    "401545986": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1761123350
+        ]
+      }
+    ],
+    "-2046020052": [
+      {
+        "chance": 1.0,
+        "results": [
+          1238151879
+        ]
+      }
+    ],
+    "1894181803": [
+      {
+        "chance": 1.0,
+        "results": [
+          1723218833
+        ]
+      }
+    ],
+    "501317165": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1754894359
+        ]
+      }
+    ],
+    "472793378": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1018808056
+        ]
+      }
+    ],
+    "964559630": [
+      {
+        "chance": 1.0,
+        "results": [
+          1178660411,
+          -544822287
+        ]
+      }
+    ],
+    "-375332921": [
+      {
+        "chance": 1.0,
+        "results": [
+          280376717
+        ]
+      }
+    ],
+    "52105763": [
+      {
+        "chance": 1.0,
+        "results": [
+          839672245
+        ]
+      }
+    ],
+    "1137954827": [
+      {
+        "chance": 1.0,
+        "results": [
+          642180737
+        ]
+      }
+    ],
+    "362408070": [
+      {
+        "chance": 1.0,
+        "results": [
+          2101244317
+        ]
+      }
+    ],
+    "-1763248993": [
+      {
+        "chance": 1.0,
+        "results": [
+          2061359429
+        ]
+      }
+    ],
+    "371270993": [
+      {
+        "chance": 1.0,
+        "results": [
+          -956704088
+        ]
+      }
+    ],
+    "-1244557391": [
+      {
+        "chance": 1.0,
+        "results": [
+          -702173799
+        ]
+      }
+    ],
+    "2048715474": [
+      {
+        "chance": 1.0,
+        "results": [
+          584454214
+        ]
+      }
+    ],
+    "-230488509": [
+      {
+        "chance": 1.0,
+        "results": [
+          677076820
+        ]
+      }
+    ],
+    "-1713997439": [
+      {
+        "chance": 1.0,
+        "results": [
+          -776645551
+        ]
+      }
+    ],
+    "-950082357": [
+      {
+        "chance": 1.0,
+        "results": [
+          189006555
+        ]
+      }
+    ],
+    "-1377781902": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1392496773
+        ]
+      }
+    ],
+    "1489064354": [
+      {
+        "chance": 1.0,
+        "results": [
+          521519461
+        ]
+      }
+    ],
+    "1067115356": [
+      {
+        "chance": 1.0,
+        "results": [
+          2004979354
+        ]
+      }
+    ],
+    "1913728932": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1767080171
+        ]
+      }
+    ],
+    "103061382": [
+      {
+        "chance": 1.0,
+        "results": [
+          2031778483,
+          2031778483
+        ]
+      }
+    ],
+    "182459458": [
+      {
+        "chance": 1.0,
+        "results": [
+          -655568275
+        ]
+      }
+    ],
+    "1497051254": [
+      {
+        "chance": 1.0,
+        "results": [
+          1541086402,
+          1497051254
+        ]
+      }
+    ],
+    "-793824407": [
+      {
+        "chance": 1.0,
+        "results": [
+          1238151879
+        ]
+      }
+    ],
+    "195312927": [
+      {
+        "chance": 1.0,
+        "results": [
+          2095049959
+        ]
+      }
+    ],
+    "392080289": [
+      {
+        "chance": 1.0,
+        "results": [
+          -655568275
+        ]
+      }
+    ],
+    "-127344495": [
+      {
+        "chance": 1.0,
+        "results": [
+          484984156
+        ]
+      }
+    ],
+    "1548742654": [
+      {
+        "chance": 1.0,
+        "results": [
+          -904945386
+        ]
+      }
+    ],
+    "373265030": [
+      {
+        "chance": 1.0,
+        "results": [
+          -735663872
+        ]
+      }
+    ],
+    "1195205562": [
+      {
+        "chance": 1.0,
+        "results": [
+          175648383
+        ]
+      }
+    ],
+    "1538157022": [
+      {
+        "chance": 1.0,
+        "results": [
+          -460194023
+        ]
+      }
+    ],
+    "-1896534649": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1110709580
+        ]
+      }
+    ],
+    "-1320209556": [
+      {
+        "chance": 1.0,
+        "results": [
+          -86605574
+        ]
+      }
+    ],
+    "-1267646391": [
+      {
+        "chance": 1.0,
+        "results": [
+          -253310233
+        ]
+      }
+    ],
+    "1783677385": [
+      {
+        "chance": 1.0,
+        "results": [
+          1048113690
+        ]
+      }
+    ],
+    "139956914": [
+      {
+        "chance": 1.0,
+        "results": [
+          2013937596
+        ]
+      }
+    ],
+    "747103431": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1138643639
+        ]
+      }
+    ],
+    "-1523211927": [
+      {
+        "chance": 1.0,
+        "results": [
+          1114214040
+        ]
+      }
+    ],
+    "-1673563555": [
+      {
+        "chance": 1.0,
+        "results": [
+          -997080549
+        ]
+      }
+    ],
+    "2006275411": [
+      {
+        "chance": 1.0,
+        "results": [
+          1751286661
+        ]
+      }
+    ],
+    "-233049452": [
+      {
+        "chance": 1.0,
+        "results": [
+          706675751
+        ]
+      }
+    ],
+    "431133274": [
+      {
+        "chance": 1.0,
+        "results": [
+          -755812327,
+          514846038
+        ]
+      }
+    ],
+    "-1778580553": [
+      {
+        "chance": 1.0,
+        "results": [
+          -771598242
+        ]
+      }
+    ],
+    "-2037337347": [
+      {
+        "chance": 1.0,
+        "results": [
+          186321285
+        ]
+      }
+    ],
+    "-1916741511": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1038533754
+        ]
+      }
+    ],
+    "451676115": [
+      {
+        "chance": 1.0,
+        "results": [
+          -519638125
+        ]
+      }
+    ],
+    "832967265": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1158474495
+        ]
+      }
+    ],
+    "-768098640": [
+      {
+        "chance": 1.0,
+        "results": [
+          1831660876
+        ]
+      }
+    ],
+    "-2108361813": [
+      {
+        "chance": 1.0,
+        "results": [
+          1736577065,
+          -1849766570
+        ]
+      }
+    ],
+    "-1302597398": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1302597398,
+          -1302597398,
+          -1480516037
+        ]
+      }
+    ],
+    "-322634070": [
+      {
+        "chance": 1.0,
+        "results": [
+          1523811463
+        ]
+      }
+    ],
+    "187298114": [
+      {
+        "chance": 1.0,
+        "results": [
+          1494667032
+        ]
+      }
+    ],
+    "877624996": [
+      {
+        "chance": 1.0,
+        "results": [
+          598703825
+        ]
+      }
+    ],
+    "60737998": [
+      {
+        "chance": 1.0,
+        "results": [
+          193760636
+        ]
+      }
+    ],
+    "1389709375": [
+      {
+        "chance": 1.0,
+        "results": [
+          -365762924
+        ]
+      }
+    ],
+    "-2140571262": [
+      {
+        "chance": 1.0,
+        "results": [
+          -834804121
+        ]
+      }
+    ],
+    "-392998587": [
+      {
+        "chance": 1.0,
+        "results": [
+          -2100201948
+        ]
+      }
+    ],
+    "1898051970": [
+      {
+        "chance": 1.0,
+        "results": [
+          469767611
+        ]
+      }
+    ],
+    "-1709820289": [
+      {
+        "chance": 1.0,
+        "results": [
+          519554026
+        ]
+      }
+    ],
+    "-546262093": [
+      {
+        "chance": 1.0,
+        "results": [
+          -385425522
+        ]
+      }
+    ],
+    "1552446348": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1244557391
+        ]
+      }
+    ],
+    "982367150": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1480516037,
+          982367150,
+          982367150
+        ]
+      }
+    ],
+    "-1982750258": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1138643639
+        ]
+      }
+    ],
+    "-349355878": [
+      {
+        "chance": 1.0,
+        "results": [
+          441351578
+        ]
+      }
+    ],
+    "-64029387": [
+      {
+        "chance": 1.0,
+        "results": [
+          1018323881
+        ]
+      }
+    ],
+    "-1116236625": [
+      {
+        "chance": 1.0,
+        "results": [
+          1970768324
+        ]
+      }
+    ],
+    "487778864": [
+      {
+        "chance": 1.0,
+        "results": [
+          205987649
+        ]
+      }
+    ],
+    "-1968915491": [
+      {
+        "chance": 1.0,
+        "results": [
+          -554684140
+        ]
+      }
+    ],
+    "1530843916": [
+      {
+        "chance": 1.0,
+        "results": [
+          -171081766
+        ]
+      }
+    ],
+    "-482176428": [
+      {
+        "chance": 1.0,
+        "results": [
+          1146456452
+        ]
+      }
+    ],
+    "558832588": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1309665421
+        ]
+      }
+    ],
+    "-356646786": [
+      {
+        "chance": 1.0,
+        "results": [
+          -2031377184
+        ]
+      }
+    ],
+    "92448528": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1788285629
+        ]
+      }
+    ],
+    "1760052336": [
+      {
+        "chance": 1.0,
+        "results": [
+          -994143230
+        ]
+      }
+    ],
+    "2109078077": [
+      {
+        "chance": 1.0,
+        "results": [
+          932141644
+        ]
+      }
+    ],
+    "-1108255054": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1997575869
+        ]
+      }
+    ],
+    "-56695276": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1082726500
+        ]
+      }
+    ],
+    "-308668910": [
+      {
+        "chance": 1.0,
+        "results": [
+          137095980
+        ]
+      }
+    ],
+    "969265571": [
+      {
+        "chance": 1.0,
+        "results": [
+          -700193587,
+          642180737
+        ]
+      }
+    ],
+    "1224762804": [
+      {
+        "chance": 1.0,
+        "results": [
+          253560921
+        ]
+      }
+    ],
+    "141332860": [
+      {
+        "chance": 0.5,
+        "results": [
+          2134830389
+        ]
+      }
+    ],
+    "2063233467": [
+      {
+        "chance": 1.0,
+        "results": [
+          254603659
+        ]
+      }
+    ],
+    "-1020905198": [
+      {
+        "chance": 1.0,
+        "results": [
+          2134830389,
+          1857012008,
+          907298825,
+          -1620941670
+        ]
+      }
+    ],
+    "-257383356": [
+      {
+        "chance": 1.0,
+        "results": [
+          1571449482
+        ]
+      }
+    ],
+    "-1629414187": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1292023629
+        ]
+      }
+    ],
+    "-1015877832": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1298455134
+        ]
+      }
+    ],
+    "1383626892": [
+      {
+        "chance": 1.0,
+        "results": [
+          514846038,
+          -544822287
+        ]
+      }
+    ],
+    "-317012272": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1065061273
+        ]
+      }
+    ],
+    "2087946678": [
+      {
+        "chance": 1.0,
+        "results": [
+          1092093968
+        ]
+      }
+    ],
+    "1318479229": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1638329533
+        ]
+      }
+    ],
+    "1194547614": [
+      {
+        "chance": 1.0,
+        "results": [
+          -986054633
+        ]
+      }
+    ],
+    "-1073373997": [
+      {
+        "chance": 1.0,
+        "results": [
+          -2010032594
+        ]
+      }
+    ],
+    "-530806353": [
+      {
+        "chance": 1.0,
+        "results": [
+          642180737
+        ]
+      }
+    ],
+    "-1592682364": [
+      {
+        "chance": 1.0,
+        "results": [
+          354418307
+        ]
+      }
+    ],
+    "-412109645": [
+      {
+        "chance": 1.0,
+        "results": [
+          335729776
+        ]
+      }
+    ],
+    "-482905053": [
+      {
+        "chance": 1.0,
+        "results": [
+          341160083
+        ]
+      }
+    ],
+    "-1802157470": [
+      {
+        "chance": 1.0,
+        "results": [
+          1363044215
+        ]
+      }
+    ],
+    "-578626817": [
+      {
+        "chance": 1.0,
+        "results": [
+          -544822287,
+          1201138134
+        ]
+      }
+    ],
+    "-16754347": [
+      {
+        "chance": 1.0,
+        "results": [
+          978541648
+        ]
+      }
+    ],
+    "1377985547": [
+      {
+        "chance": 1.0,
+        "results": [
+          898411947
+        ]
+      }
+    ],
+    "-636633228": [
+      {
+        "chance": 0.5,
+        "results": [
+          642180737,
+          -62170635,
+          714907119
+        ]
+      },
+      {
+        "chance": 0.5,
+        "results": [
+          642180737,
+          1157098399
+        ]
+      }
+    ],
+    "251820961": [
+      {
+        "chance": 1.0,
+        "results": [
+          1051584966
+        ]
+      }
+    ],
+    "361068797": [
+      {
+        "chance": 1.0,
+        "results": [
+          1780695223
+        ]
+      }
+    ],
+    "803570383": [
+      {
+        "chance": 1.0,
+        "results": [
+          1845368294
+        ]
+      }
+    ],
+    "2094456263": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1538423905
+        ]
+      }
+    ],
+    "-1879198270": [
+      {
+        "chance": 1.0,
+        "results": [
+          1607718024
+        ]
+      }
+    ],
+    "-976988471": [
+      {
+        "chance": 1.0,
+        "results": [
+          390887491
+        ]
+      }
+    ],
+    "-954250465": [
+      {
+        "chance": 1.0,
+        "results": [
+          1010974717
+        ]
+      }
+    ],
+    "1202424074": [
+      {
+        "chance": 1.0,
+        "results": [
+          -125201132
+        ]
+      }
+    ],
+    "-74170148": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1325243117
+        ]
+      }
+    ],
+    "-150407481": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1717129470
+        ]
+      }
+    ],
+    "-1220508342": [
+      {
+        "chance": 1.0,
+        "results": [
+          -448893972
+        ]
+      }
+    ],
+    "1403522144": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1767080171
+        ]
+      }
+    ],
+    "-496032741": [
+      {
+        "chance": 1.0,
+        "results": [
+          642180737
+        ]
+      }
+    ],
+    "-197630043": [
+      {
+        "chance": 1.0,
+        "results": [
+          -365762924
+        ]
+      }
+    ],
+    "-1098822004": [
+      {
+        "chance": 1.0,
+        "results": [
+          -994143230
+        ]
+      }
+    ],
+    "119749521": [
+      {
+        "chance": 1.0,
+        "results": [
+          1751139988
+        ]
+      }
+    ],
+    "998039354": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1481514560
+        ]
+      }
+    ],
+    "-130579727": [
+      {
+        "chance": 1.0,
+        "results": [
+          765470010
+        ]
+      }
+    ],
+    "-461455045": [
+      {
+        "chance": 1.0,
+        "results": [
+          -752213422
+        ]
+      }
+    ],
+    "485283274": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1200502408
+        ]
+      }
+    ],
+    "1401268016": [
+      {
+        "chance": 1.0,
+        "results": [
+          1157098399
+        ]
+      }
+    ],
+    "-1307462777": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1717129470
+        ]
+      }
+    ],
+    "2078064215": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1480516037,
+          2078064215,
+          2078064215
+        ]
+      }
+    ],
+    "152617477": [
+      {
+        "chance": 1.0,
+        "results": [
+          -529995229
+        ]
+      }
+    ],
+    "960530823": [
+      {
+        "chance": 1.0,
+        "results": [
+          2010209331
+        ]
+      }
+    ],
+    "215645038": [
+      {
+        "chance": 1.0,
+        "results": [
+          -700193587,
+          642180737
+        ]
+      }
+    ],
+    "890387205": [
+      {
+        "chance": 1.0,
+        "results": [
+          -370125458
+        ]
+      }
+    ],
+    "-104946902": [
+      {
+        "chance": 1.0,
+        "results": [
+          -257768044
+        ]
+      }
+    ],
+    "755115786": [
+      {
+        "chance": 1.0,
+        "results": [
+          -473932952
+        ]
+      }
+    ],
+    "2065234635": [
+      {
+        "chance": 1.0,
+        "results": [
+          -2070531245
+        ]
+      }
+    ],
+    "46949921": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1909743997
+        ]
+      }
+    ],
+    "435468185": [
+      {
+        "chance": 1.0,
+        "results": [
+          2031778483
+        ]
+      }
+    ],
+    "-426862237": [
+      {
+        "chance": 1.0,
+        "results": [
+          -776645551
+        ]
+      }
+    ],
+    "1405358072": [
+      {
+        "chance": 1.0,
+        "results": [
+          -238375703
+        ]
+      }
+    ],
+    "-27685954": [
+      {
+        "chance": 1.0,
+        "results": [
+          -342256429
+        ]
+      }
+    ],
+    "474805524": [
+      {
+        "chance": 1.0,
+        "results": [
+          -755812327
+        ]
+      }
+    ],
+    "1247644933": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1267711946
+        ]
+      }
+    ],
+    "704017069": [
+      {
+        "chance": 1.0,
+        "results": [
+          -377411609
+        ]
+      }
+    ],
+    "-1278593326": [
+      {
+        "chance": 1.0,
+        "results": [
+          1845368294
+        ]
+      }
+    ],
+    "-1258478291": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1249109182
+        ]
+      }
+    ],
+    "2024389314": [
+      {
+        "chance": 1.0,
+        "results": [
+          -105000219
+        ]
+      }
+    ],
+    "-1885978212": [
+      {
+        "chance": 1.0,
+        "results": [
+          -738542822
+        ]
+      }
+    ],
+    "-1243804666": [
+      {
+        "chance": 1.0,
+        "results": [
+          -190215940
+        ]
+      }
+    ],
+    "-1469220862": [
+      {
+        "chance": 0.5,
+        "results": [
+          -1909743997,
+          -1909743997
+        ]
+      }
+    ],
+    "-1530557447": [
+      {
+        "chance": 1.0,
+        "results": [
+          1815471218
+        ]
+      }
+    ],
+    "1662526044": [
+      {
+        "chance": 1.0,
+        "results": [
+          -358167384
+        ]
+      }
+    ],
+    "-1534941651": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1102323887
+        ]
+      }
+    ],
+    "-425873674": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1670497305
+        ]
+      }
+    ],
+    "-1715329212": [
+      {
+        "chance": 1.0,
+        "results": [
+          -544822287
+        ]
+      }
+    ],
+    "-65404167": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1462506186
+        ]
+      }
+    ],
+    "-1796648137": [
+      {
+        "chance": 1.0,
+        "results": [
+          -565037054
+        ]
+      }
+    ],
+    "848432220": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1724553869
+        ]
+      }
+    ],
+    "1005773627": [
+      {
+        "chance": 1.0,
+        "results": [
+          -735663872
+        ]
+      }
+    ],
+    "-1958295046": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1268510938
+        ]
+      }
+    ],
+    "-609297213": [
+      {
+        "chance": 1.0,
+        "results": [
+          623824077
+        ]
+      }
+    ],
+    "-429059872": [
+      {
+        "chance": 1.0,
+        "results": [
+          1404161529
+        ]
+      }
+    ],
+    "1291694056": [
+      {
+        "chance": 1.0,
+        "results": [
+          1238151879
+        ]
+      }
+    ],
+    "523040605": [
+      {
+        "chance": 1.0,
+        "results": [
+          -544822287
+        ]
+      }
+    ],
+    "1874728598": [
+      {
+        "chance": 1.0,
+        "results": [
+          -370125458
+        ]
+      }
+    ],
+    "830520117": [
+      {
+        "chance": 1.0,
+        "results": [
+          -308823835
+        ]
+      }
+    ],
+    "1151134057": [
+      {
+        "chance": 1.0,
+        "results": [
+          -752213422
+        ]
+      }
+    ],
+    "1782431263": [
+      {
+        "chance": 1.0,
+        "results": [
+          -574870085
+        ]
+      }
+    ],
+    "-1896330615": [
+      {
+        "chance": 1.0,
+        "results": [
+          1300619823
+        ]
+      }
+    ],
+    "-203876969": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1909743997
+        ]
+      }
+    ],
+    "-1907955521": [
+      {
+        "chance": 1.0,
+        "results": [
+          1543974781
+        ]
+      }
+    ],
+    "-1867867107": [
+      {
+        "chance": 1.0,
+        "results": [
+          -368993388
+        ]
+      }
+    ],
+    "-1792128537": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1950464763
+        ]
+      }
+    ],
+    "1608021913": [
+      {
+        "chance": 1.0,
+        "results": [
+          623824077
+        ]
+      }
+    ],
+    "1692603160": [
+      {
+        "chance": 1.0,
+        "results": [
+          -544822287,
+          -2010032594
+        ]
+      }
+    ],
+    "-1168868936": [
+      {
+        "chance": 1.0,
+        "results": [
+          603995705
+        ]
+      }
+    ],
+    "456876451": [
+      {
+        "chance": 1.0,
+        "results": [
+          -77333435,
+          -483512451
+        ]
+      }
+    ],
+    "-1336465136": [
+      {
+        "chance": 1.0,
+        "results": [
+          -474638608
+        ]
+      }
+    ],
+    "-2030914283": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1717129470
+        ]
+      }
+    ],
+    "-1025592434": [
+      {
+        "chance": 1.0,
+        "results": [
+          1322242522
+        ]
+      }
+    ],
+    "-1434692757": [
+      {
+        "chance": 1.0,
+        "results": [
+          1789330867
+        ]
+      }
+    ],
+    "753585812": [
+      {
+        "chance": 1.0,
+        "results": [
+          1346161633
+        ]
+      }
+    ],
+    "-168161707": [
+      {
+        "chance": 1.0,
+        "results": [
+          -509235877
+        ]
+      }
+    ],
+    "1754741247": [
+      {
+        "chance": 1.0,
+        "results": [
+          1287571523
+        ]
+      }
+    ],
+    "-689026520": [
+      {
+        "chance": 1.0,
+        "results": [
+          -738542822
+        ]
+      }
+    ],
+    "-1223907806": [
+      {
+        "chance": 1.0,
+        "results": [
+          -651400743
+        ]
+      }
+    ],
+    "-1119793303": [
+      {
+        "chance": 1.0,
+        "results": [
+          1638542028
+        ]
+      }
+    ],
+    "726521943": [
+      {
+        "chance": 1.0,
+        "results": [
+          705154992
+        ]
+      }
+    ],
+    "-743935364": [
+      {
+        "chance": 1.0,
+        "results": [
+          1212097111
+        ]
+      }
+    ],
+    "1518609807": [
+      {
+        "chance": 1.0,
+        "results": [
+          920171077
+        ]
+      }
+    ],
+    "-924504855": [
+      {
+        "chance": 1.0,
+        "results": [
+          2061359429
+        ]
+      }
+    ],
+    "-1926207976": [
+      {
+        "chance": 1.0,
+        "results": [
+          245089452
+        ]
+      }
+    ],
+    "30794356": [
+      {
+        "chance": 1.0,
+        "results": [
+          856067689
+        ]
+      }
+    ],
+    "-570053874": [
+      {
+        "chance": 1.0,
+        "results": [
+          1831660876
+        ]
+      }
+    ],
+    "1731525387": [
+      {
+        "chance": 1.0,
+        "results": [
+          -658537671
+        ]
+      }
+    ],
+    "175398583": [
+      {
+        "chance": 1.0,
+        "results": [
+          -169089437
+        ]
+      }
+    ],
+    "-1329119580": [
+      {
+        "chance": 1.0,
+        "results": [
+          1011406027
+        ]
+      }
+    ],
+    "-410273511": [
+      {
+        "chance": 1.0,
+        "results": [
+          -403817447
+        ]
+      }
+    ],
+    "815346361": [
+      {
+        "chance": 1.0,
+        "results": [
+          1336401804,
+          1336401804
+        ]
+      }
+    ],
+    "2009475753": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1596760157
+        ]
+      }
+    ],
+    "-1622433657": [
+      {
+        "chance": 1.0,
+        "results": [
+          -12046818
+        ]
+      }
+    ],
+    "1445095405": [
+      {
+        "chance": 1.0,
+        "results": [
+          -71840989
+        ]
+      }
+    ],
+    "2033519795": [
+      {
+        "chance": 1.0,
+        "results": [
+          -174434584
+        ]
+      }
+    ],
+    "1340281321": [
+      {
+        "chance": 1.0,
+        "results": [
+          1300619823
+        ]
+      }
+    ],
+    "-852050214": [
+      {
+        "chance": 1.0,
+        "results": [
+          -2040936899,
+          -1849766570
+        ]
+      }
+    ],
+    "2038200164": [
+      {
+        "chance": 1.0,
+        "results": [
+          -420965196
+        ]
+      }
+    ],
+    "-426229193": [
+      {
+        "chance": 1.0,
+        "results": [
+          1157098399
+        ]
+      }
+    ],
+    "1501039540": [
+      {
+        "chance": 1.0,
+        "results": [
+          714907119
+        ]
+      }
+    ],
+    "619049463": [
+      {
+        "chance": 1.0,
+        "results": [
+          1157098399
+        ]
+      }
+    ],
+    "-1713259465": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1724553869
+        ]
+      }
+    ],
+    "-1416937087": [
+      {
+        "chance": 1.0,
+        "results": [
+          -372628340
+        ]
+      }
+    ],
+    "-167824696": [
+      {
+        "chance": 1.0,
+        "results": [
+          206538951
+        ]
+      }
+    ],
+    "55510132": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1502608250
+        ]
+      }
+    ],
+    "-911828293": [
+      {
+        "chance": 1.0,
+        "results": [
+          -483512451
+        ]
+      }
+    ],
+    "189805587": [
+      {
+        "chance": 1.0,
+        "results": [
+          -656317695
+        ]
+      }
+    ],
+    "-1278123945": [
+      {
+        "chance": 1.0,
+        "results": [
+          1157098399
+        ]
+      }
+    ],
+    "415038748": [
+      {
+        "chance": 1.0,
+        "results": [
+          1856585948
+        ]
+      }
+    ],
+    "1026012412": [
+      {
+        "chance": 1.0,
+        "results": [
+          66634777
+        ]
+      }
+    ],
+    "-1329981551": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1084874602
+        ]
+      }
+    ],
+    "-320142990": [
+      {
+        "chance": 1.0,
+        "results": [
+          316475431
+        ]
+      }
+    ],
+    "1360351839": [
+      {
+        "chance": 1.0,
+        "results": [
+          -544822287,
+          -544822287
+        ]
+      }
+    ],
+    "1453374786": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1138643639
+        ]
+      }
+    ],
+    "1815471218": [
+      {
+        "chance": 1.0,
+        "results": [
+          1181507795
+        ]
+      }
+    ],
+    "-1289068204": [
+      {
+        "chance": 1.0,
+        "results": [
+          -375722082
+        ]
+      }
+    ],
+    "-455055709": [
+      {
+        "chance": 1.0,
+        "results": [
+          677076820
+        ]
+      }
+    ],
+    "484984156": [
+      {
+        "chance": 1.0,
+        "results": [
+          -302564341
+        ]
+      }
+    ],
+    "-478851667": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1733692422,
+          -1930954590
+        ]
+      }
+    ],
+    "-1705789802": [
+      {
+        "chance": 1.0,
+        "results": [
+          939058918
+        ]
+      }
+    ],
+    "-833219770": [
+      {
+        "chance": 1.0,
+        "results": [
+          -385425522
+        ]
+      }
+    ],
+    "1203589683": [
+      {
+        "chance": 1.0,
+        "results": [
+          -190112185
+        ]
+      }
+    ],
+    "1235898501": [
+      {
+        "chance": 1.0,
+        "results": [
+          -544822287
+        ]
+      }
+    ],
+    "1538302950": [
+      {
+        "chance": 1.0,
+        "results": [
+          175648383
+        ]
+      }
+    ],
+    "1728902853": [
+      {
+        "chance": 1.0,
+        "results": [
+          -162118366
+        ]
+      }
+    ],
+    "20511995": [
+      {
+        "chance": 1.0,
+        "results": [
+          544686402
+        ]
+      }
+    ],
+    "1936811506": [
+      {
+        "chance": 1.0,
+        "results": [
+          -222893652
+        ]
+      }
+    ],
+    "-371887616": [
+      {
+        "chance": 1.0,
+        "results": [
+          1181507795
+        ]
+      }
+    ],
+    "495406507": [
+      {
+        "chance": 1.0,
+        "results": [
+          874868048
+        ]
+      }
+    ],
+    "-1865334113": [
+      {
+        "chance": 1.0,
+        "results": [
+          521519461
+        ]
+      }
+    ],
+    "548803585": [
+      {
+        "chance": 1.0,
+        "results": [
+          1970235354
+        ]
+      }
+    ],
+    "1585237214": [
+      {
+        "chance": 1.0,
+        "results": [
+          96806280
+        ]
+      }
+    ],
+    "1483305666": [
+      {
+        "chance": 1.0,
+        "results": [
+          -454529387
+        ]
+      }
+    ],
+    "-1920503903": [
+      {
+        "chance": 1.0,
+        "results": [
+          1856585948,
+          1857012008,
+          907298825,
+          -1930954590
+        ]
+      }
+    ],
+    "1085710021": [
+      {
+        "chance": 1.0,
+        "results": [
+          -342256429
+        ]
+      }
+    ],
+    "-2052555110": [
+      {
+        "chance": 1.0,
+        "results": [
+          1300619823
+        ]
+      }
+    ],
+    "146760623": [
+      {
+        "chance": 1.0,
+        "results": [
+          -544822287,
+          2004979354
+        ]
+      }
+    ],
+    "-896573711": [
+      {
+        "chance": 1.0,
+        "results": [
+          1322242522
+        ]
+      }
+    ],
+    "2028613255": [
+      {
+        "chance": 1.0,
+        "results": [
+          -257768044
+        ]
+      }
+    ],
+    "-1445742952": [
+      {
+        "chance": 1.0,
+        "results": [
+          1911005598
+        ]
+      }
+    ],
+    "-1341076778": [
+      {
+        "chance": 1.0,
+        "results": [
+          245089452
+        ]
+      }
+    ],
+    "1236682793": [
+      {
+        "chance": 1.0,
+        "results": [
+          1497051254
+        ]
+      }
+    ],
+    "1673978490": [
+      {
+        "chance": 1.0,
+        "results": [
+          1287571523
+        ]
+      }
+    ],
+    "-1164973604": [
+      {
+        "chance": 1.0,
+        "results": [
+          1856585948,
+          1857012008,
+          -1070344080,
+          -1930954590
+        ]
+      }
+    ],
+    "2131275889": [
+      {
+        "chance": 1.0,
+        "results": [
+          185924214
+        ]
+      }
+    ],
+    "573415245": [
+      {
+        "chance": 1.0,
+        "results": [
+          1552446348
+        ]
+      }
+    ],
+    "-1694383354": [
+      {
+        "chance": 1.0,
+        "results": [
+          2123054900
+        ]
+      }
+    ],
+    "1937148005": [
+      {
+        "chance": 1.0,
+        "results": [
+          -318946002
+        ]
+      }
+    ],
+    "1552598220": [
+      {
+        "chance": 1.0,
+        "results": [
+          -448893972
+        ]
+      }
+    ],
+    "2072501383": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1733692422,
+          -1930954590
+        ]
+      }
+    ],
+    "1124811950": [
+      {
+        "chance": 1.0,
+        "results": [
+          1060638682
+        ]
+      }
+    ],
+    "-702935180": [
+      {
+        "chance": 1.0,
+        "results": [
+          -407994551
+        ]
+      }
+    ],
+    "-203247022": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1755036075
+        ]
+      }
+    ],
+    "1000663395": [
+      {
+        "chance": 1.0,
+        "results": [
+          598703825
+        ]
+      }
+    ],
+    "-1909329557": [
+      {
+        "chance": 1.0,
+        "results": [
+          -100147594
+        ]
+      }
+    ],
+    "-426240270": [
+      {
+        "chance": 1.0,
+        "results": [
+          25181481
+        ]
+      }
+    ],
+    "-45225977": [
+      {
+        "chance": 1.0,
+        "results": [
+          -370125458
+        ]
+      }
+    ],
+    "2072929984": [
+      {
+        "chance": 1.0,
+        "results": [
+          -447065522
+        ]
+      }
+    ],
+    "-1802853216": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1625900481
+        ]
+      }
+    ],
+    "1643793453": [
+      {
+        "chance": 1.0,
+        "results": [
+          801149135
+        ]
+      }
+    ],
+    "-930743008": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1342143190
+        ]
+      }
+    ],
+    "-97563768": [
+      {
+        "chance": 1.0,
+        "results": [
+          -171081766
+        ]
+      }
+    ],
+    "-1333870604": [
+      {
+        "chance": 1.0,
+        "results": [
+          445931367
+        ]
+      }
+    ],
+    "-1015797094": [
+      {
+        "chance": 1.0,
+        "results": [
+          -565037054,
+          -77333435
+        ]
+      }
+    ],
+    "-508981166": [
+      {
+        "chance": 1.0,
+        "results": [
+          -473932952
+        ]
+      }
+    ],
+    "1380783720": [
+      {
+        "chance": 1.0,
+        "results": [
+          -475104081
+        ]
+      }
+    ],
+    "15627285": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1761123350
+        ]
+      }
+    ],
+    "-1158474495": [
+      {
+        "chance": 1.0,
+        "results": [
+          705154992
+        ]
+      }
+    ],
+    "1946175264": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1102323887
+        ]
+      }
+    ],
+    "-1975151496": [
+      {
+        "chance": 1.0,
+        "results": [
+          2134830389
+        ]
+      }
+    ],
+    "1171485994": [
+      {
+        "chance": 1.0,
+        "results": [
+          -162118366
+        ]
+      }
+    ],
+    "-15659906": [
+      {
+        "chance": 1.0,
+        "results": [
+          -954306540
+        ]
+      }
+    ],
+    "-339066490": [
+      {
+        "chance": 1.0,
+        "results": [
+          -774597320
+        ]
+      }
+    ],
+    "467157026": [
+      {
+        "chance": 1.0,
+        "results": [
+          1934803715
+        ]
+      }
+    ],
+    "840626120": [
+      {
+        "chance": 1.0,
+        "results": [
+          -365762924
+        ]
+      }
+    ],
+    "1357161918": [
+      {
+        "chance": 1.0,
+        "results": [
+          881614605
+        ]
+      }
+    ],
+    "1534385341": [
+      {
+        "chance": 1.0,
+        "results": [
+          1336401804
+        ]
+      }
+    ],
+    "-31146197": [
+      {
+        "chance": 1.0,
+        "results": [
+          2029690015
+        ]
+      }
+    ],
+    "1095218729": [
+      {
+        "chance": 1.0,
+        "results": [
+          -575784525
+        ]
+      }
+    ],
+    "1682046878": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1249109182
+        ]
+      }
+    ],
+    "1579039050": [
+      {
+        "chance": 1.0,
+        "results": [
+          680100863
+        ]
+      }
+    ],
+    "1173059812": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1302597398
+        ]
+      }
+    ],
+    "1793952068": [
+      {
+        "chance": 1.0,
+        "results": [
+          1151134057
+        ]
+      }
+    ],
+    "-2044215950": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1142894337
+        ]
+      }
+    ],
+    "1765867293": [
+      {
+        "chance": 1.0,
+        "results": [
+          -2031377184
+        ]
+      }
+    ],
+    "543692405": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1671331813
+        ]
+      }
+    ],
+    "2135959961": [
+      {
+        "chance": 1.0,
+        "results": [
+          2031778483
+        ]
+      }
+    ],
+    "-736008138": [
+      {
+        "chance": 1.0,
+        "results": [
+          -385425522
+        ]
+      }
+    ],
+    "-76068471": [
+      {
+        "chance": 1.0,
+        "results": [
+          198688861
+        ]
+      }
+    ],
+    "495294848": [
+      {
+        "chance": 1.0,
+        "results": [
+          -474444260,
+          377340358
+        ]
+      }
+    ],
+    "1334950119": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1267711946
+        ]
+      }
+    ],
+    "739549908": [
+      {
+        "chance": 1.0,
+        "results": [
+          1881254649
+        ]
+      }
+    ],
+    "-2015224497": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1596760157
+        ]
+      }
+    ],
+    "-1713704673": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1485893390
+        ]
+      }
+    ],
+    "-924518702": [
+      {
+        "chance": 1.0,
+        "results": [
+          -365762924
+        ]
+      }
+    ],
+    "141218107": [
+      {
+        "chance": 1.0,
+        "results": [
+          1793567231
+        ]
+      }
+    ],
+    "279927325": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1688740830
+        ]
+      }
+    ],
+    "1747517342": [
+      {
+        "chance": 1.0,
+        "results": [
+          443461014
+        ]
+      }
+    ],
+    "1669192911": [
+      {
+        "chance": 1.0,
+        "results": [
+          338100856
+        ]
+      }
+    ],
+    "473321015": [
+      {
+        "chance": 1.0,
+        "results": [
+          1018323881
+        ]
+      }
+    ],
+    "-3773919": [
+      {
+        "chance": 1.0,
+        "results": [
+          -771598242
+        ]
+      }
+    ],
+    "1240674568": [
+      {
+        "chance": 1.0,
+        "results": [
+          -257381207,
+          -755812327,
+          1497051254
+        ]
+      }
+    ],
+    "-409526577": [
+      {
+        "chance": 1.0,
+        "results": [
+          1157098399,
+          -1733692422,
+          -1930954590
+        ]
+      }
+    ],
+    "1381714131": [
+      {
+        "chance": 1.0,
+        "results": [
+          1543974781
+        ]
+      }
+    ],
+    "1522691639": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1222658413
+        ]
+      }
+    ],
+    "1084272564": [
+      {
+        "chance": 1.0,
+        "results": [
+          1421269675
+        ]
+      }
+    ],
+    "556448475": [
+      {
+        "chance": 1.0,
+        "results": [
+          982367150
+        ]
+      }
+    ],
+    "-1294132980": [
+      {
+        "chance": 1.0,
+        "results": [
+          716683454
+        ]
+      }
+    ],
+    "1467984691": [
+      {
+        "chance": 1.0,
+        "results": [
+          2134830389,
+          1857012008,
+          -423222666,
+          391430037
+        ]
+      }
+    ],
+    "166904976": [
+      {
+        "chance": 1.0,
+        "results": [
+          6688215
+        ]
+      }
+    ],
+    "-1237080128": [
+      {
+        "chance": 1.0,
+        "results": [
+          2013937596
+        ]
+      }
+    ],
+    "-264679072": [
+      {
+        "chance": 1.0,
+        "results": [
+          1766396062
+        ]
+      }
+    ],
+    "1776367885": [
+      {
+        "chance": 1.0,
+        "results": [
+          1336401804,
+          1336401804
+        ]
+      }
+    ],
+    "1618635957": [
+      {
+        "chance": 1.0,
+        "results": [
+          -572649923
+        ]
+      }
+    ],
+    "108099144": [
+      {
+        "chance": 1.0,
+        "results": [
+          525646599
+        ]
+      }
+    ],
+    "1710021233": [
+      {
+        "chance": 1.0,
+        "results": [
+          -755812327
+        ]
+      }
+    ],
+    "-1755301211": [
+      {
+        "chance": 1.0,
+        "results": [
+          134442983
+        ]
+      }
+    ],
+    "643994802": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1337392271
+        ]
+      }
+    ],
+    "-1079616271": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1509834543
+        ]
+      }
+    ],
+    "-516242967": [
+      {
+        "chance": 1.0,
+        "results": [
+          859003058
+        ]
+      }
+    ],
+    "598703825": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1480516037,
+          598703825,
+          598703825
+        ]
+      }
+    ],
+    "1304396572": [
+      {
+        "chance": 1.0,
+        "results": [
+          480956739
+        ]
+      }
+    ],
+    "-162118366": [
+      {
+        "chance": 1.0,
+        "results": [
+          703514820
+        ]
+      }
+    ],
+    "-610931391": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1599536784
+        ]
+      }
+    ],
+    "-1112247076": [
+      {
+        "chance": 1.0,
+        "results": [
+          -424900499
+        ]
+      }
+    ],
+    "-544822287": [
+      {
+        "chance": 1.0,
+        "results": [
+          1360351839,
+          1360351839
+        ]
+      }
+    ],
+    "-79498739": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1596760157
+        ]
+      }
+    ],
+    "-704122168": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1481514560
+        ]
+      }
+    ],
+    "-1863393478": [
+      {
+        "chance": 1.0,
+        "results": [
+          -33850085
+        ]
+      }
+    ],
+    "2075558191": [
+      {
+        "chance": 1.0,
+        "results": [
+          -771598242
+        ]
+      }
+    ],
+    "2038563379": [
+      {
+        "chance": 1.0,
+        "results": [
+          801149135
+        ]
+      }
+    ],
+    "541496770": [
+      {
+        "chance": 1.0,
+        "results": [
+          -12046818
+        ]
+      }
+    ],
+    "461433635": [
+      {
+        "chance": 1.0,
+        "results": [
+          95650187
+        ]
+      }
+    ],
+    "-593555434": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1841846584
+        ]
+      }
+    ],
+    "1666794903": [
+      {
+        "chance": 1.0,
+        "results": [
+          -122990195
+        ]
+      }
+    ],
+    "-1676623288": [
+      {
+        "chance": 1.0,
+        "results": [
+          2134830389,
+          -1139223513
+        ]
+      }
+    ],
+    "-1114916696": [
+      {
+        "chance": 1.0,
+        "results": [
+          1888140552
+        ]
+      }
+    ],
+    "1522971024": [
+      {
+        "chance": 1.0,
+        "results": [
+          920171077
+        ]
+      }
+    ],
+    "1944759258": [
+      {
+        "chance": 1.0,
+        "results": [
+          1175076960
+        ]
+      }
+    ],
+    "1990035835": [
+      {
+        "chance": 1.0,
+        "results": [
+          1845368294
+        ]
+      }
+    ],
+    "-1758476507": [
+      {
+        "chance": 1.0,
+        "results": [
+          -544822287,
+          514846038
+        ]
+      }
+    ],
+    "59897390": [
+      {
+        "chance": 1.0,
+        "results": [
+          -448893972
+        ]
+      }
+    ],
+    "1320317940": [
+      {
+        "chance": 1.0,
+        "results": [
+          -132821282,
+          -132821282,
+          -1244557391
+        ]
+      }
+    ],
+    "961711590": [
+      {
+        "chance": 1.0,
+        "results": [
+          -222893652
+        ]
+      }
+    ],
+    "1573997689": [
+      {
+        "chance": 1.0,
+        "results": [
+          -669029057
+        ]
+      }
+    ],
+    "1345232206": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1841846584
+        ]
+      }
+    ],
+    "-2101112692": [
+      {
+        "chance": 1.0,
+        "results": [
+          -2100201948
+        ]
+      }
+    ],
+    "28473613": [
+      {
+        "chance": 1.0,
+        "results": [
+          1766396062
+        ]
+      }
+    ],
+    "-420249685": [
+      {
+        "chance": 1.0,
+        "results": [
+          975398393
+        ]
+      }
+    ],
+    "521833667": [
+      {
+        "chance": 1.0,
+        "results": [
+          -125201132
+        ]
+      }
+    ],
+    "-1147025039": [
+      {
+        "chance": 1.0,
+        "results": [
+          -726165922
+        ]
+      }
+    ],
+    "656207285": [
+      {
+        "chance": 1.0,
+        "results": [
+          1541086402
+        ]
+      }
+    ],
+    "-767638962": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1268510938
+        ]
+      }
+    ],
+    "1917102866": [
+      {
+        "chance": 1.0,
+        "results": [
+          680100863
+        ]
+      }
+    ],
+    "759583196": [
+      {
+        "chance": 1.0,
+        "results": [
+          -132821282,
+          -132821282,
+          -132821282,
+          -702173799
+        ]
+      }
+    ],
+    "576990276": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1295000404
+        ]
+      }
+    ],
+    "865211371": [
+      {
+        "chance": 1.0,
+        "results": [
+          1974854043
+        ]
+      }
+    ],
+    "1939495620": [
+      {
+        "chance": 1.0,
+        "results": [
+          1020395837
+        ]
+      }
+    ],
+    "905361651": [
+      {
+        "chance": 1.0,
+        "results": [
+          1462894090
+        ]
+      }
+    ],
+    "-1605105951": [
+      {
+        "chance": 1.0,
+        "results": [
+          1073065795
+        ]
+      }
+    ],
+    "-71193185": [
+      {
+        "chance": 1.0,
+        "results": [
+          -532150489
+        ]
+      }
+    ],
+    "417599018": [
+      {
+        "chance": 1.0,
+        "results": [
+          1363044215
+        ]
+      }
+    ],
+    "-1481996961": [
+      {
+        "chance": 1.0,
+        "results": [
+          1000839340,
+          -1849766570
+        ]
+      }
+    ],
+    "-458205114": [
+      {
+        "chance": 1.0,
+        "results": [
+          628376207
+        ]
+      }
+    ],
+    "57672399": [
+      {
+        "chance": 1.0,
+        "results": [
+          939058918
+        ]
+      }
+    ],
+    "-1174082270": [
+      {
+        "chance": 1.0,
+        "results": [
+          -655568275
+        ]
+      }
+    ],
+    "1289872178": [
+      {
+        "chance": 1.0,
+        "results": [
+          2101244317
+        ]
+      }
+    ],
+    "1368873753": [
+      {
+        "chance": 1.0,
+        "results": [
+          982367150
+        ]
+      }
+    ],
+    "-1383245344": [
+      {
+        "chance": 1.0,
+        "results": [
+          1784391671
+        ]
+      }
+    ],
+    "591379794": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1018808056
+        ]
+      }
+    ],
+    "532125344": [
+      {
+        "chance": 1.0,
+        "results": [
+          714907119
+        ]
+      }
+    ],
+    "499885460": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1200502408
+        ]
+      }
+    ],
+    "1745009080": [
+      {
+        "chance": 1.0,
+        "results": [
+          1427862612
+        ]
+      }
+    ],
+    "896851434": [
+      {
+        "chance": 1.0,
+        "results": [
+          884215258
+        ]
+      }
+    ],
+    "-59181203": [
+      {
+        "chance": 1.0,
+        "results": [
+          -495628822
+        ]
+      }
+    ],
+    "1243867156": [
+      {
+        "chance": 1.0,
+        "results": [
+          -572649923
+        ]
+      }
+    ],
+    "-1490976758": [
+      {
+        "chance": 1.0,
+        "results": [
+          -342256429
+        ]
+      }
+    ],
+    "-377426904": [
+      {
+        "chance": 1.0,
+        "results": [
+          1178660411
+        ]
+      }
+    ],
+    "-2124198062": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1950464763
+        ]
+      }
+    ],
+    "197580504": [
+      {
+        "chance": 1.0,
+        "results": [
+          975398393
+        ]
+      }
+    ],
+    "-1475926677": [
+      {
+        "chance": 1.0,
+        "results": [
+          1911005598
+        ]
+      }
+    ],
+    "465688017": [
+      {
+        "chance": 1.0,
+        "results": [
+          -774597320
+        ]
+      }
+    ],
+    "1696288687": [
+      {
+        "chance": 1.0,
+        "results": [
+          -2070531245
+        ]
+      }
+    ],
+    "1919625835": [
+      {
+        "chance": 1.0,
+        "results": [
+          -257768044
+        ]
+      }
+    ],
+    "397621871": [
+      {
+        "chance": 1.0,
+        "results": [
+          6688215
+        ]
+      }
+    ],
+    "371689517": [
+      {
+        "chance": 1.0,
+        "results": [
+          -631911700
+        ]
+      }
+    ],
+    "1598394374": [
+      {
+        "chance": 1.0,
+        "results": [
+          1884767176
+        ]
+      }
+    ],
+    "1644124505": [
+      {
+        "chance": 1.0,
+        "results": [
+          -2111143406
+        ]
+      }
+    ],
+    "-1533857060": [
+      {
+        "chance": 1.0,
+        "results": [
+          -544822287
+        ]
+      }
+    ],
+    "-1014963803": [
+      {
+        "chance": 1.0,
+        "results": [
+          2078064215
+        ]
+      }
+    ],
+    "869653887": [
+      {
+        "chance": 1.0,
+        "results": [
+          -529183310
+        ]
+      }
+    ],
+    "-689445814": [
+      {
+        "chance": 1.0,
+        "results": [
+          -132821282,
+          1169793139
+        ]
+      }
+    ],
+    "1540693162": [
+      {
+        "chance": 1.0,
+        "results": [
+          46964232
+        ]
+      }
+    ],
+    "-357417626": [
+      {
+        "chance": 1.0,
+        "results": [
+          1845368294
+        ]
+      }
+    ],
+    "585073647": [
+      {
+        "chance": 1.0,
+        "results": [
+          -257381207
+        ]
+      }
+    ],
+    "1871590360": [
+      {
+        "chance": 1.0,
+        "results": [
+          -544822287
+        ]
+      }
+    ],
+    "-2089438016": [
+      {
+        "chance": 1.0,
+        "results": [
+          -62170635,
+          1157098399
+        ]
+      }
+    ],
+    "-555147839": [
+      {
+        "chance": 1.0,
+        "results": [
+          -969202581,
+          -1930954590
+        ]
+      }
+    ],
+    "-644309141": [
+      {
+        "chance": 1.0,
+        "results": [
+          -448893972
+        ]
+      }
+    ],
+    "-374257597": [
+      {
+        "chance": 1.0,
+        "results": [
+          -2100201948
+        ]
+      }
+    ],
+    "1334750289": [
+      {
+        "chance": 1.0,
+        "results": [
+          254603659
+        ]
+      }
+    ],
+    "96806280": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1480516037,
+          96806280,
+          96806280
+        ]
+      }
+    ],
+    "1436709082": [
+      {
+        "chance": 1.0,
+        "results": [
+          -700193587,
+          2134830389
+        ]
+      }
+    ],
+    "-12046818": [
+      {
+        "chance": 1.0,
+        "results": [
+          598054009
+        ]
+      }
+    ],
+    "-828413414": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1694383354
+        ]
+      }
+    ],
+    "-1424945878": [
+      {
+        "chance": 1.0,
+        "results": [
+          603995705
+        ]
+      }
+    ],
+    "2115666497": [
+      {
+        "chance": 1.0,
+        "results": [
+          1010974717
+        ]
+      }
+    ],
+    "-2097711845": [
+      {
+        "chance": 1.0,
+        "results": [
+          913516367
+        ]
+      }
+    ],
+    "-1778068602": [
+      {
+        "chance": 1.0,
+        "results": [
+          1336401804
+        ]
+      }
+    ],
+    "-735663872": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1480516037,
+          -735663872,
+          -735663872
+        ]
+      }
+    ],
+    "726592252": [
+      {
+        "chance": 1.0,
+        "results": [
+          528693026
+        ]
+      }
+    ],
+    "-1366545169": [
+      {
+        "chance": 1.0,
+        "results": [
+          -495628822
+        ]
+      }
+    ],
+    "1300427565": [
+      {
+        "chance": 1.0,
+        "results": [
+          -375722082
+        ]
+      }
+    ],
+    "1481666300": [
+      {
+        "chance": 1.0,
+        "results": [
+          -375722082
+        ]
+      }
+    ],
+    "1412539004": [
+      {
+        "chance": 1.0,
+        "results": [
+          1178660411,
+          -544822287
+        ]
+      }
+    ],
+    "637918531": [
+      {
+        "chance": 1.0,
+        "results": [
+          309414983
+        ]
+      }
+    ],
+    "428828295": [
+      {
+        "chance": 1.0,
+        "results": [
+          1934803715
+        ]
+      }
+    ],
+    "1803759066": [
+      {
+        "chance": 1.0,
+        "results": [
+          1619622805
+        ]
+      }
+    ],
+    "-1786235241": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1706095173
+        ]
+      }
+    ],
+    "-515871364": [
+      {
+        "chance": 1.0,
+        "results": [
+          137095980
+        ]
+      }
+    ],
+    "1802095558": [
+      {
+        "chance": 1.0,
+        "results": [
+          -257381207,
+          1497051254
+        ]
+      }
+    ],
+    "289012888": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1781950697
+        ]
+      }
+    ],
+    "657306769": [
+      {
+        "chance": 1.0,
+        "results": [
+          129129064
+        ]
+      }
+    ],
+    "640164397": [
+      {
+        "chance": 1.0,
+        "results": [
+          2031778483
+        ]
+      }
+    ],
+    "-1415754715": [
+      {
+        "chance": 1.0,
+        "results": [
+          -2050223638
+        ]
+      }
+    ],
+    "-238345146": [
+      {
+        "chance": 1.0,
+        "results": [
+          -532150489
+        ]
+      }
+    ],
+    "-127589449": [
+      {
+        "chance": 1.0,
+        "results": [
+          881614605
+        ]
+      }
+    ],
+    "401017707": [
+      {
+        "chance": 1.0,
+        "results": [
+          289012888
+        ]
+      }
+    ],
+    "-1318208137": [
+      {
+        "chance": 1.0,
+        "results": [
+          2134830389
+        ]
+      }
+    ],
+    "57373310": [
+      {
+        "chance": 1.0,
+        "results": [
+          346494005
+        ]
+      }
+    ],
+    "1087062646": [
+      {
+        "chance": 1.0,
+        "results": [
+          1092595765
+        ]
+      }
+    ],
+    "53077601": [
+      {
+        "chance": 1.0,
+        "results": [
+          891172849
+        ]
+      }
+    ],
+    "1480067038": [
+      {
+        "chance": 1.0,
+        "results": [
+          711309978
+        ]
+      }
+    ],
+    "-1125884959": [
+      {
+        "chance": 1.0,
+        "results": [
+          1812404941
+        ]
+      }
+    ],
+    "728393724": [
+      {
+        "chance": 1.0,
+        "results": [
+          -554684140,
+          -554684140
+        ]
+      }
+    ],
+    "889946852": [
+      {
+        "chance": 1.0,
+        "results": [
+          -2111143406
+        ]
+      }
+    ],
+    "-1670135153": [
+      {
+        "chance": 1.0,
+        "results": [
+          -544822287,
+          -257381207,
+          -544822287,
+          -755812327
+        ]
+      }
+    ],
+    "-1147239931": [
+      {
+        "chance": 1.0,
+        "results": [
+          -2050223638
+        ]
+      }
+    ],
+    "-1841846584": [
+      {
+        "chance": 1.0,
+        "results": [
+          1462894090
+        ]
+      }
+    ],
+    "1150907801": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1754894359
+        ]
+      }
+    ],
+    "-1446115206": [
+      {
+        "chance": 1.0,
+        "results": [
+          1990262039
+        ]
+      }
+    ],
+    "-131250069": [
+      {
+        "chance": 1.0,
+        "results": [
+          1336401804
+        ]
+      }
+    ],
+    "1457883932": [
+      {
+        "chance": 1.0,
+        "results": [
+          -574645131
+        ]
+      }
+    ],
+    "-1864620655": [
+      {
+        "chance": 1.0,
+        "results": [
+          1826786956
+        ]
+      }
+    ],
+    "-1075820157": [
+      {
+        "chance": 1.0,
+        "results": [
+          1157098399
+        ]
+      }
+    ],
+    "1538053298": [
+      {
+        "chance": 1.0,
+        "results": [
+          -874712941
+        ]
+      }
+    ],
+    "208210399": [
+      {
+        "chance": 1.0,
+        "results": [
+          2059968434
+        ]
+      }
+    ],
+    "-1112740179": [
+      {
+        "chance": 1.0,
+        "results": [
+          -447065522
+        ]
+      }
+    ],
+    "1333528823": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1997575869
+        ]
+      }
+    ],
+    "-1521203038": [
+      {
+        "chance": 1.0,
+        "results": [
+          -653970484
+        ]
+      }
+    ],
+    "1178321371": [
+      {
+        "chance": 1.0,
+        "results": [
+          1174789098
+        ]
+      }
+    ],
+    "224280325": [
+      {
+        "chance": 1.0,
+        "results": [
+          -330578051
+        ]
+      }
+    ],
+    "816100312": [
+      {
+        "chance": 1.0,
+        "results": [
+          839672245
+        ]
+      }
+    ],
+    "-171613911": [
+      {
+        "chance": 1.0,
+        "results": [
+          1180599618
+        ]
+      }
+    ],
+    "-148587485": [
+      {
+        "chance": 1.0,
+        "results": [
+          -368922949
+        ]
+      }
+    ],
+    "153833717": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1733692422
+        ]
+      }
+    ],
+    "530399689": [
+      {
+        "chance": 1.0,
+        "results": [
+          -407994551
+        ]
+      }
+    ],
+    "1507670652": [
+      {
+        "chance": 1.0,
+        "results": [
+          -532150489
+        ]
+      }
+    ],
+    "-1203623655": [
+      {
+        "chance": 1.0,
+        "results": [
+          -385481266
+        ]
+      }
+    ],
+    "1407680478": [
+      {
+        "chance": 1.0,
+        "results": [
+          -100147594
+        ]
+      }
+    ],
+    "1602176800": [
+      {
+        "chance": 1.0,
+        "results": [
+          193180192
+        ]
+      }
+    ],
+    "1056998237": [
+      {
+        "chance": 1.0,
+        "results": [
+          -2070531245
+        ]
+      }
+    ],
+    "1235094271": [
+      {
+        "chance": 1.0,
+        "results": [
+          -162118366
+        ]
+      }
+    ],
+    "588064525": [
+      {
+        "chance": 1.0,
+        "results": [
+          -370125458
+        ]
+      }
+    ],
+    "-1146203792": [
+      {
+        "chance": 1.0,
+        "results": [
+          -544822287
+        ]
+      }
+    ],
+    "-1400520283": [
+      {
+        "chance": 1.0,
+        "results": [
+          975398393
+        ]
+      }
+    ],
+    "-111072783": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1480516037
+        ]
+      }
+    ],
+    "-1523186251": [
+      {
+        "chance": 1.0,
+        "results": [
+          2123054900
+        ]
+      }
+    ],
+    "-373798521": [
+      {
+        "chance": 1.0,
+        "results": [
+          932141644
+        ]
+      }
+    ],
+    "260240892": [
+      {
+        "chance": 1.0,
+        "results": [
+          889330958
+        ]
+      }
+    ],
+    "1458508889": [
+      {
+        "chance": 1.0,
+        "results": [
+          1991177144
+        ]
+      }
+    ],
+    "-1362467348": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1508311192
+        ]
+      }
+    ],
+    "1771930141": [
+      {
+        "chance": 1.0,
+        "results": [
+          716683454,
+          -2137290797
+        ]
+      }
+    ],
+    "337119626": [
+      {
+        "chance": 1.0,
+        "results": [
+          1845368294
+        ]
+      }
+    ],
+    "-2014738854": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1139040974
+        ]
+      }
+    ],
+    "-1699642527": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1679914090
+        ]
+      }
+    ],
+    "819433001": [
+      {
+        "chance": 1.0,
+        "results": [
+          1305619586
+        ]
+      }
+    ],
+    "-432085561": [
+      {
+        "chance": 1.0,
+        "results": [
+          891172849
+        ]
+      }
+    ],
+    "-1646249815": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1298455134
+        ]
+      }
+    ],
+    "-1028772446": [
+      {
+        "chance": 1.0,
+        "results": [
+          -311914260
+        ]
+      }
+    ],
+    "1901562142": [
+      {
+        "chance": 1.0,
+        "results": [
+          1724537516
+        ]
+      }
+    ],
+    "-1598945948": [
+      {
+        "chance": 1.0,
+        "results": [
+          675366406
+        ]
+      }
+    ],
+    "-508148393": [
+      {
+        "chance": 1.0,
+        "results": [
+          96806280
+        ]
+      }
+    ],
+    "1650686568": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1139040974
+        ]
+      }
+    ],
+    "1245507643": [
+      {
+        "chance": 1.0,
+        "results": [
+          677076820
+        ]
+      }
+    ],
+    "286065138": [
+      {
+        "chance": 1.0,
+        "results": [
+          -370125458
+        ]
+      }
+    ],
+    "200392941": [
+      {
+        "chance": 1.0,
+        "results": [
+          -529183310
+        ]
+      }
+    ],
+    "820911491": [
+      {
+        "chance": 1.0,
+        "results": [
+          1238151879
+        ]
+      }
+    ],
+    "-716305595": [
+      {
+        "chance": 1.0,
+        "results": [
+          956338445
+        ]
+      }
+    ],
+    "-2024567153": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1599536784
+        ]
+      }
+    ],
+    "-1393458033": [
+      {
+        "chance": 1.0,
+        "results": [
+          -86605574
+        ]
+      }
+    ],
+    "64584316": [
+      {
+        "chance": 1.0,
+        "results": [
+          1322242522
+        ]
+      }
+    ],
+    "2092484240": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1292096834
+        ]
+      }
+    ],
+    "-719515669": [
+      {
+        "chance": 1.0,
+        "results": [
+          -592241108
+        ]
+      }
+    ],
+    "-1783650964": [
+      {
+        "chance": 1.0,
+        "results": [
+          -86605574
+        ]
+      }
+    ],
+    "1991500459": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1548485549
+        ]
+      }
+    ],
+    "98792184": [
+      {
+        "chance": 1.0,
+        "results": [
+          2037938584
+        ]
+      }
+    ],
+    "289219772": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1625900481,
+          -544822287
+        ]
+      }
+    ],
+    "270436850": [
+      {
+        "chance": 1.0,
+        "results": [
+          1175076960
+        ]
+      }
+    ],
+    "360054411": [
+      {
+        "chance": 1.0,
+        "results": [
+          2078064215,
+          -1930954590
+        ]
+      }
+    ],
+    "-210156698": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1292165857
+        ]
+      }
+    ],
+    "1483862681": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1273290039
+        ]
+      }
+    ],
+    "1970235354": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1504523787
+        ]
+      }
+    ],
+    "-341535137": [
+      {
+        "chance": 1.0,
+        "results": [
+          2061359429
+        ]
+      }
+    ],
+    "1553693004": [
+      {
+        "chance": 1.0,
+        "results": [
+          2037938584
+        ]
+      }
+    ],
+    "-640531125": [
+      {
+        "chance": 1.0,
+        "results": [
+          1977545079
+        ]
+      }
+    ],
+    "591995653": [
+      {
+        "chance": 1.0,
+        "results": [
+          -481176266
+        ]
+      }
+    ],
+    "-1055324444": [
+      {
+        "chance": 1.0,
+        "results": [
+          -904945386
+        ]
+      }
+    ],
+    "1829089790": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1909743997,
+          -227845137
+        ]
+      }
+    ],
+    "-1523806397": [
+      {
+        "chance": 1.0,
+        "results": [
+          1543974781
+        ]
+      }
+    ],
+    "1138384480": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1595791278
+        ]
+      }
+    ],
+    "-141961263": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1843483650
+        ]
+      }
+    ],
+    "1578433463": [
+      {
+        "chance": 1.0,
+        "results": [
+          -521377716
+        ]
+      }
+    ],
+    "2084619628": [
+      {
+        "chance": 1.0,
+        "results": [
+          799674484
+        ]
+      }
+    ],
+    "110183068": [
+      {
+        "chance": 1.0,
+        "results": [
+          1751139988
+        ]
+      }
+    ],
+    "122245670": [
+      {
+        "chance": 1.0,
+        "results": [
+          -592241108
+        ]
+      }
+    ],
+    "2111566996": [
+      {
+        "chance": 1.0,
+        "results": [
+          -481176266
+        ]
+      }
+    ],
+    "-1711875960": [
+      {
+        "chance": 1.0,
+        "results": [
+          -735663872
+        ]
+      }
+    ],
+    "-740694387": [
+      {
+        "chance": 1.0,
+        "results": [
+          161301901
+        ]
+      }
+    ],
+    "938408112": [
+      {
+        "chance": 1.0,
+        "results": [
+          -856368153
+        ]
+      }
+    ],
+    "-49236291": [
+      {
+        "chance": 1.0,
+        "results": [
+          623824077,
+          -1538423905
+        ]
+      }
+    ],
+    "1043842739": [
+      {
+        "chance": 1.0,
+        "results": [
+          279263881
+        ]
+      }
+    ],
+    "-650321448": [
+      {
+        "chance": 1.0,
+        "results": [
+          1180599618
+        ]
+      }
+    ],
+    "-1688246107": [
+      {
+        "chance": 1.0,
+        "results": [
+          -544822287
+        ]
+      }
+    ],
+    "-62170635": [
+      {
+        "chance": 1.0,
+        "results": [
+          1157098399,
+          1157098399
+        ]
+      }
+    ],
+    "181292701": [
+      {
+        "chance": 1.0,
+        "results": [
+          978541648
+        ]
+      }
+    ],
+    "158569020": [
+      {
+        "chance": 1.0,
+        "results": [
+          276547795
+        ]
+      }
+    ],
+    "50401030": [
+      {
+        "chance": 1.0,
+        "results": [
+          254603659
+        ]
+      }
+    ],
+    "-1039297064": [
+      {
+        "chance": 1.0,
+        "results": [
+          1911005598
+        ]
+      }
+    ],
+    "-893327431": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1200502408
+        ]
+      }
+    ],
+    "1510815619": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1205754326
+        ]
+      }
+    ],
+    "-902702518": [
+      {
+        "chance": 1.0,
+        "results": [
+          334118653,
+          1157098399,
+          -1930954590
+        ]
+      }
+    ],
+    "6423339": [
+      {
+        "chance": 1.0,
+        "results": [
+          6688215
+        ]
+      }
+    ],
+    "-707480591": [
+      {
+        "chance": 1.0,
+        "results": [
+          1619622805
+        ]
+      }
+    ],
+    "1325318948": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1840142824
+        ]
+      }
+    ],
+    "-1238622007": [
+      {
+        "chance": 1.0,
+        "results": [
+          -798227138,
+          -257381207
+        ]
+      }
+    ],
+    "-489037586": [
+      {
+        "chance": 1.0,
+        "results": [
+          -738542822
+        ]
+      }
+    ],
+    "-227200340": [
+      {
+        "chance": 1.0,
+        "results": [
+          956338445
+        ]
+      }
+    ],
+    "-2027183125": [
+      {
+        "chance": 1.0,
+        "results": [
+          -77333435,
+          2134830389
+        ]
+      }
+    ],
+    "-250252362": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1909743997,
+          -1909743997
+        ]
+      }
+    ],
+    "891267789": [
+      {
+        "chance": 1.0,
+        "results": [
+          -700193587
+        ]
+      }
+    ],
+    "1061632909": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1841846584
+        ]
+      }
+    ],
+    "-506808851": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1538423905
+        ]
+      }
+    ],
+    "-1371629024": [
+      {
+        "chance": 1.0,
+        "results": [
+          1048113690
+        ]
+      }
+    ],
+    "2134304003": [
+      {
+        "chance": 1.0,
+        "results": [
+          581169373
+        ]
+      }
+    ],
+    "-428948569": [
+      {
+        "chance": 1.0,
+        "results": [
+          581207006
+        ]
+      }
+    ],
+    "1969666888": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1012186485
+        ]
+      }
+    ],
+    "-501728861": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1292096834
+        ]
+      }
+    ],
+    "-278972910": [
+      {
+        "chance": 1.0,
+        "results": [
+          1857012008,
+          391430037,
+          -423222666,
+          -954306540
+        ]
+      }
+    ],
+    "1308432131": [
+      {
+        "chance": 1.0,
+        "results": [
+          480956739
+        ]
+      }
+    ],
+    "-1676811563": [
+      {
+        "chance": 1.0,
+        "results": [
+          -2142098413
+        ]
+      }
+    ],
+    "-1602677958": [
+      {
+        "chance": 1.0,
+        "results": [
+          -1921127562
+        ]
+      }
+    ],
+    "-55764897": [
+      {
+        "chance": 1.0,
+        "results": [
+          2134830389
+        ]
+      }
+    ],
+    "2092556592": [
+      {
+        "chance": 1.0,
+        "results": [
+          193760636
+        ]
+      }
+    ],
+    "2128304490": [
+      {
+        "chance": 1.0,
+        "results": [
+          695632929
+        ]
+      }
+    ],
+    "-1993773198": [
+      {
+        "chance": 1.0,
+        "results": [
+          1970235354
+        ]
+      }
+    ],
+    "304239592": [
+      {
+        "chance": 1.0,
+        "results": [
+          -454529387
+        ]
+      }
+    ],
+    "832424700": [
+      {
+        "chance": 1.0,
+        "results": [
+          1587603945
+        ]
+      }
+    ],
+    "746690133": [
+      {
+        "chance": 1.0,
+        "results": [
+          161702990
+        ]
+      }
+    ],
+    "-335581149": [
+      {
+        "chance": 1.0,
+        "results": [
+          1051584966
+        ]
+      }
+    ]
+  }
+}
