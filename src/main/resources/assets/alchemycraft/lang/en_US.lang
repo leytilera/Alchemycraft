@@ -5,3 +5,9 @@ item.fire.name=Fire Dust
 item.water.name=Water Dust
 item.earth.name=Earth Dust
 item.air.name=Air Dust
+
+tile.alchemyore.name=Alchemy Ore
+tile.fireore.name=Fire Ore
+tile.waterore.name=Water Ore
+tile.earthore.name=Earth Ore
+tile.airore.name=Air Ore
